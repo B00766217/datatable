@@ -1,5 +1,5 @@
 #interactive datatable-interactivity
-# python datatable_interactive.py
+# python app.py
 import dash
 from dash.dependencies import Input, Output
 import dash_table
