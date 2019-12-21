@@ -1,0 +1,910 @@
+Territory,Entity,Code,Description,Operation,2017A,2018A,2019F,2020B
+Burundi,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Burundi,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Burundi,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Burundi,Africa,1004,Module 4,National Operator,0,0,0,0
+Burundi,Africa,1005,Module 5,National Operator,2720,4571,5144,6890
+Burundi,Africa,1006,Module 6,National Operator,2000,2206,2331,2438
+Burundi,Africa,1007,Module 7,National Operator,1950,2134,2438,2592
+Burundi,Africa,1008,Module 8,National Operator,1000,1166,1343,1491
+Burundi,Africa,1009,Module 9,National Operator,1410,1518,1575,1674
+Benin,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Benin,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Benin,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Benin,Africa,1004,Module 4,National Operator,0,0,0,0
+Benin,Africa,1005,Module 5,National Operator,15560,16942,18507,18695
+Benin,Africa,1006,Module 6,National Operator,1180,1283,1467,1672
+Benin,Africa,1007,Module 7,National Operator,2010,2284,2528,2803
+Benin,Africa,1008,Module 8,National Operator,1000,1136,1343,1461
+Benin,Africa,1009,Module 9,National Operator,1360,1447,1494,1552
+Burkina Faso,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Burkina Faso,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Burkina Faso,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Burkina Faso,Africa,1004,Module 4,National Operator,0,0,0,0
+Burkina Faso,Africa,1005,Module 5,National Operator,12120,13554,15071,16599
+Burkina Faso,Africa,1006,Module 6,National Operator,1560,1744,1889,2035
+Burkina Faso,Africa,1007,Module 7,National Operator,1620,1833,2107,2321
+Burkina Faso,Africa,1008,Module 8,National Operator,1000,1136,1272,1390
+Burkina Faso,Africa,1009,Module 9,National Operator,1090,1196,1252,1319
+Botswana,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Botswana,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Botswana,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Botswana,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Botswana,Africa,1005,Module 5,Directly Managed,12340,13534,15132,16821
+Botswana,Africa,1006,Module 6,Directly Managed,1960,2085,2291,2478
+Botswana,Africa,1007,Module 7,Directly Managed,1830,2013,2317,2532
+Botswana,Africa,1008,Module 8,Directly Managed,1000,1106,1262,1471
+Botswana,Africa,1009,Module 9,Directly Managed,1290,1347,1373,1461
+Central African Republic,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Central African Republic,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Central African Republic,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Central African Republic,Africa,1004,Module 4,National Operator,0,0,0,0
+Central African Republic,Africa,1005,Module 5,National Operator,14620,16581,17784,18292
+Central African Republic,Africa,1006,Module 6,National Operator,1740,1945,2110,2216
+Central African Republic,Africa,1007,Module 7,National Operator,1890,2134,2347,2653
+Central African Republic,Africa,1008,Module 8,National Operator,1000,1146,1333,1461
+Central African Republic,Africa,1009,Module 9,National Operator,1220,1307,1383,1451
+Cote d'Ivoire,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Cote d'Ivoire,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Cote d'Ivoire,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Cote d'Ivoire,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Cote d'Ivoire,Africa,1005,Module 5,Directly Managed,18260,18626,19512,19742
+Cote d'Ivoire,Africa,1006,Module 6,Directly Managed,1640,1744,1929,2035
+Cote d'Ivoire,Africa,1007,Module 7,Directly Managed,1830,2043,2257,2532
+Cote d'Ivoire,Africa,1008,Module 8,Directly Managed,1000,1116,1221,1390
+Cote d'Ivoire,Africa,1009,Module 9,Directly Managed,1270,1327,1393,1491
+Cameroon,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Cameroon,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Cameroon,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Cameroon,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Cameroon,Africa,1005,Module 5,Directly Managed,6480,7679,8400,9891
+Cameroon,Africa,1006,Module 6,Directly Managed,1680,1805,1929,2035
+Cameroon,Africa,1007,Module 7,Directly Managed,1500,1683,1896,2110
+Cameroon,Africa,1008,Module 8,Directly Managed,1000,1166,1363,1512
+Cameroon,Africa,1009,Module 9,Directly Managed,1340,1407,1514,1623
+Djibouti,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Djibouti,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Djibouti,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Djibouti,Africa,1004,Module 4,National Operator,0,0,0,0
+Djibouti,Africa,1005,Module 5,National Operator,14440,14677,14931,15673
+Djibouti,Africa,1006,Module 6,National Operator,1300,1404,1588,1773
+Djibouti,Africa,1007,Module 7,National Operator,1740,1923,2197,2502
+Djibouti,Africa,1008,Module 8,National Operator,1000,1136,1322,1481
+Djibouti,Africa,1009,Module 9,National Operator,1270,1367,1454,1512
+Algeria,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Algeria,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Algeria,Africa,1003,Module 3,National Operator,13500,22575,22643,24232
+Algeria,Africa,1004,Module 4,National Operator,0,0,0,0
+Algeria,Africa,1005,Module 5,National Operator,16440,17564,18407,19299
+Algeria,Africa,1006,Module 6,National Operator,1240,1343,1547,1692
+Algeria,Africa,1007,Module 7,National Operator,2160,2404,2648,2924
+Algeria,Africa,1008,Module 8,National Operator,1080,1256,1454,1623
+Algeria,Africa,1009,Module 9,National Operator,1030,1126,1221,1299
+Egypt,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Egypt,Africa,1002,Module 2,National Operator,50000,52500,52500,53750
+Egypt,Africa,1003,Module 3,National Operator,27000,27090,33209,34834
+Egypt,Africa,1004,Module 4,National Operator,0,0,0,0
+Egypt,Africa,1005,Module 5,National Operator,42620,43268,43365,45427
+Egypt,Africa,1006,Module 6,National Operator,1800,2005,2130,2256
+Egypt,Africa,1007,Module 7,National Operator,2070,2314,2618,2864
+Egypt,Africa,1008,Module 8,National Operator,1000,1136,1252,1390
+Egypt,Africa,1009,Module 9,National Operator,1370,1447,1555,1623
+Eritrea,Africa,1001,Module 1,HO Managed,10000,10000,10000,15750
+Eritrea,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Eritrea,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Eritrea,Africa,1004,Module 4,HO Managed,0,0,0,0
+Eritrea,Africa,1005,Module 5,HO Managed,6780,8060,9806,11382
+Eritrea,Africa,1006,Module 6,HO Managed,2000,2185,2371,2538
+Eritrea,Africa,1007,Module 7,HO Managed,1710,2013,2257,2562
+Eritrea,Africa,1008,Module 8,HO Managed,1000,1146,1272,1461
+Eritrea,Africa,1009,Module 9,HO Managed,1250,1347,1454,1552
+Ethiopia,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Ethiopia,Africa,1002,Module 2,National Operator,50000,52500,52500,53750
+Ethiopia,Africa,1003,Module 3,National Operator,22500,22575,24152,25747
+Ethiopia,Africa,1004,Module 4,National Operator,0,0,0,0
+Ethiopia,Africa,1005,Module 5,National Operator,52460,53674,55141,55278
+Ethiopia,Africa,1006,Module 6,National Operator,1520,1664,1809,1954
+Ethiopia,Africa,1007,Module 7,National Operator,1890,2164,2347,2502
+Ethiopia,Africa,1008,Module 8,National Operator,1000,1126,1333,1501
+Ethiopia,Africa,1009,Module 9,National Operator,1320,1417,1504,1613
+Ghana,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Ghana,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Ghana,Africa,1003,Module 3,National Operator,15000,15050,16605,16660
+Ghana,Africa,1004,Module 4,National Operator,0,0,0,0
+Ghana,Africa,1005,Module 5,National Operator,14480,16301,18005,18795
+Ghana,Africa,1006,Module 6,National Operator,1380,1564,1668,1833
+Ghana,Africa,1007,Module 7,National Operator,1950,2164,2468,2623
+Ghana,Africa,1008,Module 8,National Operator,1000,1166,1302,1501
+Ghana,Africa,1009,Module 9,National Operator,1100,1156,1211,1319
+Equatorial Guinea,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Equatorial Guinea,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Equatorial Guinea,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Equatorial Guinea,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Equatorial Guinea,Africa,1005,Module 5,Directly Managed,6880,8120,8339,9811
+Equatorial Guinea,Africa,1006,Module 6,Directly Managed,1680,1885,1989,2115
+Equatorial Guinea,Africa,1007,Module 7,Directly Managed,1500,1743,2016,2170
+Equatorial Guinea,Africa,1008,Module 8,Directly Managed,1000,1196,1343,1512
+Equatorial Guinea,Africa,1009,Module 9,Directly Managed,1480,1578,1615,1704
+Kenya,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Kenya,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Kenya,Africa,1003,Module 3,National Operator,30000,33110,33209,33319
+Kenya,Africa,1004,Module 4,National Operator,0,0,0,0
+Kenya,Africa,1005,Module 5,National Operator,32860,34586,35367,35556
+Kenya,Africa,1006,Module 6,National Operator,1440,1624,1768,1914
+Kenya,Africa,1007,Module 7,National Operator,2460,2765,2919,3165
+Kenya,Africa,1008,Module 8,National Operator,1000,1126,1302,1430
+Kenya,Africa,1009,Module 9,National Operator,1000,1075,1121,1197
+Libya,Africa,1001,Module 1,HO Managed,10000,10000,10000,15750
+Libya,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Libya,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Libya,Africa,1004,Module 4,HO Managed,0,0,0,0
+Libya,Africa,1005,Module 5,HO Managed,7280,8822,9746,11664
+Libya,Africa,1006,Module 6,HO Managed,1780,1905,2010,2135
+Libya,Africa,1007,Module 7,HO Managed,2040,2194,2498,2713
+Libya,Africa,1008,Module 8,HO Managed,1000,1186,1373,1542
+Libya,Africa,1009,Module 9,HO Managed,1310,1417,1524,1583
+Lesotho,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Lesotho,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Lesotho,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Lesotho,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Lesotho,Africa,1005,Module 5,Directly Managed,19580,21253,21783,23469
+Lesotho,Africa,1006,Module 6,Directly Managed,1320,1504,1708,1914
+Lesotho,Africa,1007,Module 7,Directly Managed,2220,2374,2618,2834
+Lesotho,Africa,1008,Module 8,Directly Managed,1000,1196,1373,1562
+Lesotho,Africa,1009,Module 9,Directly Managed,1420,1528,1635,1704
+Morocco,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Morocco,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Morocco,Africa,1003,Module 3,National Operator,7500,7525,7548,7573
+Morocco,Africa,1004,Module 4,National Operator,0,0,0,0
+Morocco,Africa,1005,Module 5,National Operator,12940,13935,14408,15189
+Morocco,Africa,1006,Module 6,National Operator,1820,1925,2090,2216
+Morocco,Africa,1007,Module 7,National Operator,1980,2134,2408,2562
+Morocco,Africa,1008,Module 8,National Operator,1000,1146,1272,1410
+Morocco,Africa,1009,Module 9,National Operator,1210,1307,1413,1481
+Madagascar,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Madagascar,Africa,1002,Module 2,National Operator,10000,10500,10500,10750
+Madagascar,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Madagascar,Africa,1004,Module 4,National Operator,0,0,0,0
+Madagascar,Africa,1005,Module 5,National Operator,5200,6977,7033,7877
+Madagascar,Africa,1006,Module 6,National Operator,1420,1564,1768,1914
+Madagascar,Africa,1007,Module 7,National Operator,1680,1833,2107,2261
+Madagascar,Africa,1008,Module 8,National Operator,1000,1136,1333,1461
+Madagascar,Africa,1009,Module 9,National Operator,1190,1266,1353,1420
+Mozambique,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Mozambique,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Mozambique,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Mozambique,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Mozambique,Africa,1005,Module 5,Directly Managed,18760,19469,21421,21898
+Mozambique,Africa,1006,Module 6,Directly Managed,1660,1865,2070,2176
+Mozambique,Africa,1007,Module 7,Directly Managed,2250,2464,2648,2803
+Mozambique,Africa,1008,Module 8,Directly Managed,1000,1116,1322,1471
+Mozambique,Africa,1009,Module 9,Directly Managed,1440,1548,1605,1694
+Mauritius,Africa,1001,Module 1,HO Managed,10000,10000,10000,15750
+Mauritius,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Mauritius,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Mauritius,Africa,1004,Module 4,HO Managed,0,0,0,0
+Mauritius,Africa,1005,Module 5,HO Managed,3900,4211,5124,6406
+Mauritius,Africa,1006,Module 6,HO Managed,1420,1584,1688,1813
+Mauritius,Africa,1007,Module 7,HO Managed,2010,2254,2528,2834
+Mauritius,Africa,1008,Module 8,HO Managed,1000,1156,1262,1370
+Mauritius,Africa,1009,Module 9,HO Managed,1010,1075,1100,1177
+Malawi,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Malawi,Africa,1002,Module 2,Directly Managed,10000,10500,10500,10750
+Malawi,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Malawi,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Malawi,Africa,1005,Module 5,Directly Managed,9660,11248,12760,13396
+Malawi,Africa,1006,Module 6,Directly Managed,1800,1905,2110,2317
+Malawi,Africa,1007,Module 7,Directly Managed,2160,2374,2528,2713
+Malawi,Africa,1008,Module 8,Directly Managed,1000,1196,1373,1481
+Malawi,Africa,1009,Module 9,Directly Managed,1340,1427,1504,1562
+Namibia,Africa,1001,Module 1,HO Managed,10000,10000,10000,15750
+Namibia,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Namibia,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Namibia,Africa,1004,Module 4,HO Managed,0,0,0,0
+Namibia,Africa,1005,Module 5,HO Managed,13600,14336,14730,15089
+Namibia,Africa,1006,Module 6,HO Managed,1000,1203,1306,1511
+Namibia,Africa,1007,Module 7,HO Managed,2040,2314,2468,2743
+Namibia,Africa,1008,Module 8,HO Managed,1000,1156,1333,1451
+Namibia,Africa,1009,Module 9,HO Managed,1400,1477,1585,1643
+Niger,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Niger,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Niger,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Niger,Africa,1004,Module 4,National Operator,0,0,0,0
+Niger,Africa,1005,Module 5,National Operator,19200,19829,21220,22462
+Niger,Africa,1006,Module 6,National Operator,1980,2185,2391,2599
+Niger,Africa,1007,Module 7,National Operator,1740,1983,2257,2562
+Niger,Africa,1008,Module 8,National Operator,1000,1176,1312,1471
+Niger,Africa,1009,Module 9,National Operator,1470,1538,1605,1704
+Nigeria,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Nigeria,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Nigeria,Africa,1003,Module 3,National Operator,7500,7525,7548,7573
+Nigeria,Africa,1004,Module 4,National Operator,0,0,0,0
+Nigeria,Africa,1005,Module 5,National Operator,13640,15198,16980,17325
+Nigeria,Africa,1006,Module 6,National Operator,1240,1404,1608,1732
+Nigeria,Africa,1007,Module 7,National Operator,2190,2434,2618,2773
+Nigeria,Africa,1008,Module 8,National Operator,1000,1196,1353,1471
+Nigeria,Africa,1009,Module 9,National Operator,1340,1397,1444,1501
+Rwanda,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Rwanda,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Rwanda,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Rwanda,Africa,1004,Module 4,National Operator,0,0,0,0
+Rwanda,Africa,1005,Module 5,National Operator,3620,4010,4280,5318
+Rwanda,Africa,1006,Module 6,National Operator,1640,1764,1949,2095
+Rwanda,Africa,1007,Module 7,National Operator,2190,2374,2558,2713
+Rwanda,Africa,1008,Module 8,National Operator,1000,1166,1353,1501
+Rwanda,Africa,1009,Module 9,National Operator,1290,1387,1484,1583
+Senegal,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Senegal,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Senegal,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Senegal,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Senegal,Africa,1005,Module 5,Directly Managed,7840,8020,9987,11080
+Senegal,Africa,1006,Module 6,Directly Managed,1180,1323,1427,1591
+Senegal,Africa,1007,Module 7,Directly Managed,1950,2254,2468,2743
+Senegal,Africa,1008,Module 8,Directly Managed,1000,1206,1383,1572
+Senegal,Africa,1009,Module 9,Directly Managed,1460,1518,1585,1684
+Sierra Leone,Africa,1001,Module 1,HO Managed,55000,60000,70000,80000
+Sierra Leone,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Sierra Leone,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Sierra Leone,Africa,1004,Module 4,HO Managed,0,0,0,0
+Sierra Leone,Africa,1005,Module 5,HO Managed,13900,14015,15353,15532
+Sierra Leone,Africa,1006,Module 6,HO Managed,1220,1404,1547,1712
+Sierra Leone,Africa,1007,Module 7,HO Managed,1650,1863,2016,2291
+Sierra Leone,Africa,1008,Module 8,HO Managed,1000,1116,1242,1370
+Sierra Leone,Africa,1009,Module 9,HO Managed,1390,1457,1524,1633
+Somalia,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Somalia,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Somalia,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Somalia,Africa,1004,Module 4,National Operator,0,0,0,0
+Somalia,Africa,1005,Module 5,National Operator,3120,3308,3758,3848
+Somalia,Africa,1006,Module 6,National Operator,1300,1444,1567,1732
+Somalia,Africa,1007,Module 7,National Operator,1530,1773,1956,2231
+Somalia,Africa,1008,Module 8,National Operator,1000,1166,1322,1441
+Somalia,Africa,1009,Module 9,National Operator,1230,1307,1373,1461
+Chad,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Chad,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Chad,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Chad,Africa,1004,Module 4,National Operator,0,0,0,0
+Chad,Africa,1005,Module 5,National Operator,10680,12591,13303,13497
+Chad,Africa,1006,Module 6,National Operator,1140,1263,1467,1612
+Chad,Africa,1007,Module 7,National Operator,1740,2013,2317,2532
+Chad,Africa,1008,Module 8,National Operator,1000,1196,1373,1552
+Chad,Africa,1009,Module 9,National Operator,1400,1508,1585,1643
+Togo,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Togo,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Togo,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Togo,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Togo,Africa,1005,Module 5,Directly Managed,5980,7298,7897,7957
+Togo,Africa,1006,Module 6,Directly Managed,1640,1784,1949,2115
+Togo,Africa,1007,Module 7,Directly Managed,2100,2314,2468,2653
+Togo,Africa,1008,Module 8,Directly Managed,1000,1106,1262,1380
+Togo,Africa,1009,Module 9,Directly Managed,1100,1166,1262,1359
+Tunisia,Africa,1001,Module 1,HO Managed,10000,10000,10000,15750
+Tunisia,Africa,1002,Module 2,HO Managed,5000,5250,5250,5375
+Tunisia,Africa,1003,Module 3,HO Managed,1500,1505,1510,1515
+Tunisia,Africa,1004,Module 4,HO Managed,0,0,0,0
+Tunisia,Africa,1005,Module 5,HO Managed,10980,12732,13423,14182
+Tunisia,Africa,1006,Module 6,HO Managed,1440,1544,1708,1833
+Tunisia,Africa,1007,Module 7,HO Managed,1890,2164,2317,2502
+Tunisia,Africa,1008,Module 8,HO Managed,1000,1206,1413,1593
+Tunisia,Africa,1009,Module 9,HO Managed,1040,1095,1131,1197
+Tanzania,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+Tanzania,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Tanzania,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Tanzania,Africa,1004,Module 4,National Operator,0,0,0,0
+Tanzania,Africa,1005,Module 5,National Operator,12120,13654,15674,15834
+Tanzania,Africa,1006,Module 6,National Operator,1000,1103,1286,1450
+Tanzania,Africa,1007,Module 7,National Operator,2190,2374,2678,2834
+Tanzania,Africa,1008,Module 8,National Operator,1000,1136,1272,1390
+Tanzania,Africa,1009,Module 9,National Operator,1000,1095,1141,1217
+South Africa,Africa,1001,Module 1,National Operator,55000,60000,70000,80000
+South Africa,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+South Africa,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+South Africa,Africa,1004,Module 4,National Operator,0,0,0,0
+South Africa,Africa,1005,Module 5,National Operator,3860,5273,5948,6285
+South Africa,Africa,1006,Module 6,National Operator,1220,1343,1527,1732
+South Africa,Africa,1007,Module 7,National Operator,1560,1803,2016,2231
+South Africa,Africa,1008,Module 8,National Operator,1000,1106,1252,1420
+South Africa,Africa,1009,Module 9,National Operator,1380,1467,1504,1562
+Zambia,Africa,1001,Module 1,National Operator,10000,10000,10000,15750
+Zambia,Africa,1002,Module 2,National Operator,5000,5250,5250,5375
+Zambia,Africa,1003,Module 3,National Operator,1500,1505,1510,1515
+Zambia,Africa,1004,Module 4,National Operator,0,0,0,0
+Zambia,Africa,1005,Module 5,National Operator,10440,11108,11153,12591
+Zambia,Africa,1006,Module 6,National Operator,1540,1644,1829,2015
+Zambia,Africa,1007,Module 7,National Operator,2010,2164,2347,2623
+Zambia,Africa,1008,Module 8,National Operator,1000,1206,1373,1542
+Zambia,Africa,1009,Module 9,National Operator,1120,1196,1282,1390
+Zimbabwe,Africa,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Zimbabwe,Africa,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Zimbabwe,Africa,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Zimbabwe,Africa,1004,Module 4,Directly Managed,0,0,0,0
+Zimbabwe,Africa,1005,Module 5,Directly Managed,6500,8321,9364,11140
+Zimbabwe,Africa,1006,Module 6,Directly Managed,1520,1624,1748,1934
+Zimbabwe,Africa,1007,Module 7,Directly Managed,1500,1653,1866,2110
+Zimbabwe,Africa,1008,Module 8,Directly Managed,1000,1206,1343,1512
+Zimbabwe,Africa,1009,Module 9,Directly Managed,1100,1206,1292,1390
+Argentina,Americas,1001,Module 1,HO Managed,55000,60000,70000,80000
+Argentina,Americas,1002,Module 2,HO Managed,5000,5250,5250,5375
+Argentina,Americas,1003,Module 3,HO Managed,1500,0,0,0
+Argentina,Americas,1004,Module 4,HO Managed,0,0,0,0
+Argentina,Americas,1005,Module 5,HO Managed,6900,7218,7737,9106
+Argentina,Americas,1006,Module 6,HO Managed,1140,1343,1447,1652
+Argentina,Americas,1007,Module 7,HO Managed,1650,1923,2227,2442
+Argentina,Americas,1008,Module 8,HO Managed,1000,1206,1393,1522
+Argentina,Americas,1009,Module 9,HO Managed,1380,1457,1514,1593
+Bolivia,Americas,1001,Module 1,National Operator,10000,10000,10000,15750
+Bolivia,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Bolivia,Americas,1003,Module 3,National Operator,1500,1505,1510,1515
+Bolivia,Americas,1004,Module 4,National Operator,0,0,0,0
+Bolivia,Americas,1005,Module 5,National Operator,2860,3368,3758,4936
+Bolivia,Americas,1006,Module 6,National Operator,1760,1885,1989,2156
+Bolivia,Americas,1007,Module 7,National Operator,2100,2314,2528,2683
+Bolivia,Americas,1008,Module 8,National Operator,1000,1206,1363,1572
+Bolivia,Americas,1009,Module 9,National Operator,1180,1246,1333,1441
+Brazil,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Brazil,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Brazil,Americas,1003,Module 3,National Operator,15000,15050,15095,15145
+Brazil,Americas,1004,Module 4,National Operator,0,0,0,0
+Brazil,Americas,1005,Module 5,National Operator,5220,6476,6732,7816
+Brazil,Americas,1006,Module 6,National Operator,1980,2185,2391,2599
+Brazil,Americas,1007,Module 7,National Operator,2190,2404,2558,2803
+Brazil,Americas,1008,Module 8,National Operator,1000,1186,1333,1542
+Brazil,Americas,1009,Module 9,National Operator,1290,1397,1464,1542
+Canada,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Canada,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Canada,Americas,1003,Module 3,National Operator,75000,75250,75475,75725
+Canada,Americas,1004,Module 4,National Operator,0,0,0,0
+Canada,Americas,1005,Module 5,National Operator,12340,14095,15815,15955
+Canada,Americas,1006,Module 6,National Operator,1620,1724,1869,2075
+Canada,Americas,1007,Module 7,National Operator,1650,1803,2016,2261
+Canada,Americas,1008,Module 8,National Operator,1000,1116,1302,1491
+Canada,Americas,1009,Module 9,National Operator,1350,1437,1524,1613
+Chile,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Chile,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Chile,Americas,1003,Module 3,National Operator,7500,7525,7548,7573
+Chile,Americas,1004,Module 4,National Operator,0,0,0,0
+Chile,Americas,1005,Module 5,National Operator,7080,8982,10007,10334
+Chile,Americas,1006,Module 6,National Operator,1880,1985,2190,2377
+Chile,Americas,1007,Module 7,National Operator,2220,2464,2618,2924
+Chile,Americas,1008,Module 8,National Operator,1000,1146,1252,1370
+Chile,Americas,1009,Module 9,National Operator,1220,1286,1343,1420
+Colombia,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Colombia,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Colombia,Americas,1003,Module 3,National Operator,15000,15050,15095,15145
+Colombia,Americas,1004,Module 4,National Operator,0,0,0,0
+Colombia,Americas,1005,Module 5,National Operator,16460,17544,19271,20165
+Colombia,Americas,1006,Module 6,National Operator,1480,1664,1788,1974
+Colombia,Americas,1007,Module 7,National Operator,1650,1953,2227,2532
+Colombia,Americas,1008,Module 8,National Operator,1000,1176,1343,1481
+Colombia,Americas,1009,Module 9,National Operator,1370,1477,1504,1613
+Dominican Republic,Americas,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Dominican Republic,Americas,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Dominican Republic,Americas,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Dominican Republic,Americas,1004,Module 4,Directly Managed,0,0,0,0
+Dominican Republic,Americas,1005,Module 5,Directly Managed,14200,14556,15332,16640
+Dominican Republic,Americas,1006,Module 6,Directly Managed,1440,1604,1768,1934
+Dominican Republic,Americas,1007,Module 7,Directly Managed,1890,2104,2317,2532
+Dominican Republic,Americas,1008,Module 8,Directly Managed,1000,1106,1302,1471
+Dominican Republic,Americas,1009,Module 9,Directly Managed,1130,1216,1262,1349
+Ecuador,Americas,1001,Module 1,HO Managed,55000,60000,70000,80000
+Ecuador,Americas,1002,Module 2,HO Managed,5000,5250,5250,5375
+Ecuador,Americas,1003,Module 3,HO Managed,1500,1505,1510,1515
+Ecuador,Americas,1004,Module 4,HO Managed,0,0,0,0
+Ecuador,Americas,1005,Module 5,HO Managed,17020,17845,18708,19057
+Ecuador,Americas,1006,Module 6,HO Managed,1340,1544,1648,1813
+Ecuador,Americas,1007,Module 7,HO Managed,1620,1863,2167,2442
+Ecuador,Americas,1008,Module 8,HO Managed,1000,1116,1292,1471
+Ecuador,Americas,1009,Module 9,HO Managed,1070,1146,1201,1309
+Guatemala,Americas,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Guatemala,Americas,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Guatemala,Americas,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Guatemala,Americas,1004,Module 4,Directly Managed,0,0,0,0
+Guatemala,Americas,1005,Module 5,Directly Managed,9320,10366,12238,12550
+Guatemala,Americas,1006,Module 6,Directly Managed,1520,1724,1909,2075
+Guatemala,Americas,1007,Module 7,Directly Managed,1560,1833,2016,2201
+Guatemala,Americas,1008,Module 8,Directly Managed,1000,1106,1262,1390
+Guatemala,Americas,1009,Module 9,Directly Managed,1020,1095,1181,1268
+Mexico,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Mexico,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Mexico,Americas,1003,Module 3,National Operator,1500,1505,1510,1515
+Mexico,Americas,1004,Module 4,National Operator,0,0,0,0
+Mexico,Americas,1005,Module 5,National Operator,3080,3268,3778,3948
+Mexico,Americas,1006,Module 6,National Operator,1020,1203,1387,1571
+Mexico,Americas,1007,Module 7,National Operator,2250,2434,2678,2924
+Mexico,Americas,1008,Module 8,National Operator,1000,1196,1322,1451
+Mexico,Americas,1009,Module 9,National Operator,1270,1377,1403,1461
+Panama,Americas,1001,Module 1,National Operator,10000,10000,10000,15750
+Panama,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Panama,Americas,1003,Module 3,National Operator,1500,1505,1510,1515
+Panama,Americas,1004,Module 4,National Operator,0,0,0,0
+Panama,Americas,1005,Module 5,National Operator,7440,7459,7556,9206
+Panama,Americas,1006,Module 6,National Operator,1700,1825,2010,2115
+Panama,Americas,1007,Module 7,National Operator,1980,2164,2408,2713
+Panama,Americas,1008,Module 8,National Operator,1000,1126,1302,1430
+Panama,Americas,1009,Module 9,National Operator,1380,1447,1555,1664
+Peru,Americas,1001,Module 1,HO Managed,55000,60000,70000,80000
+Peru,Americas,1002,Module 2,HO Managed,5000,5250,5250,5375
+Peru,Americas,1003,Module 3,HO Managed,1500,1505,1510,1515
+Peru,Americas,1004,Module 4,HO Managed,0,0,0,0
+Peru,Americas,1005,Module 5,HO Managed,15940,16802,18528,20346
+Peru,Americas,1006,Module 6,HO Managed,1180,1303,1487,1632
+Peru,Americas,1007,Module 7,HO Managed,1920,2134,2287,2562
+Peru,Americas,1008,Module 8,HO Managed,1000,1106,1211,1390
+Peru,Americas,1009,Module 9,HO Managed,1140,1206,1292,1390
+Puerto Rico,Americas,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Puerto Rico,Americas,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Puerto Rico,Americas,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Puerto Rico,Americas,1004,Module 4,Directly Managed,0,0,0,0
+Puerto Rico,Americas,1005,Module 5,Directly Managed,3680,4090,4943,6205
+Puerto Rico,Americas,1006,Module 6,Directly Managed,1960,2125,2331,2498
+Puerto Rico,Americas,1007,Module 7,Directly Managed,1680,1863,2167,2321
+Puerto Rico,Americas,1008,Module 8,Directly Managed,1000,1206,1312,1501
+Puerto Rico,Americas,1009,Module 9,Directly Managed,1000,1065,1151,1207
+Paraguay,Americas,1001,Module 1,National Operator,10000,10000,10000,15750
+Paraguay,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Paraguay,Americas,1003,Module 3,National Operator,1500,1505,1510,1515
+Paraguay,Americas,1004,Module 4,National Operator,0,0,0,0
+Paraguay,Americas,1005,Module 5,National Operator,12640,13033,13926,14585
+Paraguay,Americas,1006,Module 6,National Operator,1100,1243,1387,1551
+Paraguay,Americas,1007,Module 7,National Operator,1890,2104,2378,2683
+Paraguay,Americas,1008,Module 8,National Operator,1000,1156,1353,1522
+Paraguay,Americas,1009,Module 9,National Operator,1100,1196,1282,1390
+Trinidad and Tobago,Americas,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Trinidad and Tobago,Americas,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Trinidad and Tobago,Americas,1003,Module 3,Directly Managed,750,753,755,757
+Trinidad and Tobago,Americas,1004,Module 4,Directly Managed,0,0,0,0
+Trinidad and Tobago,Americas,1005,Module 5,Directly Managed,15440,15599,15694,17566
+Trinidad and Tobago,Americas,1006,Module 6,Directly Managed,1560,1764,1889,2035
+Trinidad and Tobago,Americas,1007,Module 7,Directly Managed,1740,1983,2167,2472
+Trinidad and Tobago,Americas,1008,Module 8,Directly Managed,1000,1106,1252,1380
+Trinidad and Tobago,Americas,1009,Module 9,Directly Managed,1210,1296,1383,1481
+Uruguay,Americas,1001,Module 1,Directly Managed,7500,7500,7500,17500
+Uruguay,Americas,1002,Module 2,Directly Managed,5000,5250,5250,5375
+Uruguay,Americas,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Uruguay,Americas,1004,Module 4,Directly Managed,0,0,0,0
+Uruguay,Americas,1005,Module 5,Directly Managed,14220,15479,15996,16136
+Uruguay,Americas,1006,Module 6,Directly Managed,1160,1343,1487,1591
+Uruguay,Americas,1007,Module 7,Directly Managed,1860,2104,2287,2442
+Uruguay,Americas,1008,Module 8,Directly Managed,1000,1116,1292,1441
+Uruguay,Americas,1009,Module 9,Directly Managed,1250,1327,1403,1461
+United States,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+United States,Americas,1002,Module 2,National Operator,240000,250000,250000,255000
+United States,Americas,1003,Module 3,National Operator,300000,301000,339638,348335
+United States,Americas,1004,Module 4,National Operator,20000,20000,20000,20500
+United States,Americas,1005,Module 5,National Operator,76780,77834,78993,80358
+United States,Americas,1006,Module 6,National Operator,147560,148089,148582,149053
+United States,Americas,1007,Module 7,National Operator,5430,5740,5989,6300
+United States,Americas,1008,Module 8,National Operator,1000,1106,1221,1430
+United States,Americas,1009,Module 9,National Operator,1480,1548,1645,1715
+Venezuela,Americas,1001,Module 1,National Operator,55000,60000,70000,80000
+Venezuela,Americas,1002,Module 2,National Operator,5000,5250,5250,5375
+Venezuela,Americas,1003,Module 3,National Operator,1500,1505,1510,1515
+Venezuela,Americas,1004,Module 4,National Operator,0,0,0,0
+Venezuela,Americas,1005,Module 5,National Operator,6920,7860,8078,9529
+Venezuela,Americas,1006,Module 6,National Operator,1940,2145,2331,2498
+Venezuela,Americas,1007,Module 7,National Operator,1680,1983,2167,2472
+Venezuela,Americas,1008,Module 8,National Operator,1000,1166,1363,1491
+Venezuela,Americas,1009,Module 9,National Operator,1430,1497,1605,1674
+Afghanistan,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Afghanistan,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Afghanistan,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Afghanistan,Asia,1004,Module 4,National Operator,0,0,0,0
+Afghanistan,Asia,1005,Module 5,National Operator,8680,9403,10590,10999
+Afghanistan,Asia,1006,Module 6,National Operator,1140,1343,1487,1652
+Afghanistan,Asia,1007,Module 7,National Operator,2190,2464,2769,2924
+Afghanistan,Asia,1008,Module 8,National Operator,1000,1176,1353,1512
+Afghanistan,Asia,1009,Module 9,National Operator,1150,1246,1292,1380
+Bahrain,Asia,1001,Module 1,HO Managed,7500,7500,7500,17500
+Bahrain,Asia,1002,Module 2,HO Managed,5500,5750,5750,5875
+Bahrain,Asia,1003,Module 3,HO Managed,1500,1505,1510,1515
+Bahrain,Asia,1004,Module 4,HO Managed,0,0,0,0
+Bahrain,Asia,1005,Module 5,HO Managed,13520,14877,16659,18533
+Bahrain,Asia,1006,Module 6,HO Managed,1660,1764,1969,2095
+Bahrain,Asia,1007,Module 7,HO Managed,1860,2013,2197,2381
+Bahrain,Asia,1008,Module 8,HO Managed,1000,1176,1353,1491
+Bahrain,Asia,1009,Module 9,HO Managed,1090,1156,1262,1339
+China,Asia,1001,Module 1,HO Managed,55000,60000,70000,80000
+China,Asia,1002,Module 2,HO Managed,110000,115000,115000,117500
+China,Asia,1003,Module 3,HO Managed,70000,168600,211425,270000
+China,Asia,1004,Module 4,HO Managed,0,0,0,0
+China,Asia,1005,Module 5,HO Managed,8020,9724,11575,13417
+China,Asia,1006,Module 6,HO Managed,102840,103278,103630,104069
+China,Asia,1007,Module 7,HO Managed,18840,19172,19471,19745
+China,Asia,1008,Module 8,HO Managed,1000,1156,1363,1542
+China,Asia,1009,Module 9,HO Managed,1440,1518,1565,1623
+Indonesia,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Indonesia,Asia,1002,Module 2,National Operator,11000,11500,11500,11750
+Indonesia,Asia,1003,Module 3,National Operator,7500,7525,7548,7573
+Indonesia,Asia,1004,Module 4,National Operator,0,0,0,0
+Indonesia,Asia,1005,Module 5,National Operator,14340,15980,18025,19339
+Indonesia,Asia,1006,Module 6,National Operator,1840,1945,2050,2176
+Indonesia,Asia,1007,Module 7,National Operator,1560,1833,1986,2261
+Indonesia,Asia,1008,Module 8,National Operator,1000,1136,1262,1420
+Indonesia,Asia,1009,Module 9,National Operator,1050,1146,1171,1228
+India,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+India,Asia,1002,Module 2,National Operator,55000,57500,57500,58750
+India,Asia,1003,Module 3,National Operator,15000,15050,15095,15145
+India,Asia,1004,Module 4,National Operator,0,0,0,0
+India,Asia,1005,Module 5,National Operator,10080,11689,12298,13658
+India,Asia,1006,Module 6,National Operator,15460,15679,15815,15975
+India,Asia,1007,Module 7,National Operator,1980,2284,2498,2803
+India,Asia,1008,Module 8,National Operator,1000,1196,1353,1471
+India,Asia,1009,Module 9,National Operator,1000,1075,1151,1228
+Israel,Asia,1001,Module 1,National Operator,30000,30000,35000,80000
+Israel,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Israel,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Israel,Asia,1004,Module 4,National Operator,0,0,0,0
+Israel,Asia,1005,Module 5,National Operator,16900,18266,18347,19843
+Israel,Asia,1006,Module 6,National Operator,1200,1363,1507,1612
+Israel,Asia,1007,Module 7,National Operator,2250,2494,2799,2954
+Israel,Asia,1008,Module 8,National Operator,1000,1176,1353,1562
+Israel,Asia,1009,Module 9,National Operator,1410,1487,1575,1664
+Jordan,Asia,1001,Module 1,HO Managed,7500,7500,7500,17500
+Jordan,Asia,1002,Module 2,HO Managed,5500,5750,5750,5875
+Jordan,Asia,1003,Module 3,HO Managed,1500,1505,1510,1515
+Jordan,Asia,1004,Module 4,HO Managed,0,0,0,0
+Jordan,Asia,1005,Module 5,HO Managed,5080,5193,5365,7031
+Jordan,Asia,1006,Module 6,HO Managed,1120,1283,1427,1531
+Jordan,Asia,1007,Module 7,HO Managed,1650,1923,2227,2381
+Jordan,Asia,1008,Module 8,HO Managed,1000,1146,1353,1461
+Jordan,Asia,1009,Module 9,HO Managed,1150,1246,1312,1370
+Japan,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Japan,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Japan,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Japan,Asia,1004,Module 4,National Operator,0,0,0,0
+Japan,Asia,1005,Module 5,National Operator,16580,18165,20095,21535
+Japan,Asia,1006,Module 6,National Operator,1840,2045,2170,2357
+Japan,Asia,1007,Module 7,National Operator,1890,2164,2408,2623
+Japan,Asia,1008,Module 8,National Operator,1000,1166,1353,1461
+Japan,Asia,1009,Module 9,National Operator,1000,1085,1131,1217
+Kuwait,Asia,1001,Module 1,HO Managed,7500,7500,7500,17500
+Kuwait,Asia,1002,Module 2,HO Managed,5500,5750,5750,5875
+Kuwait,Asia,1003,Module 3,HO Managed,1500,1505,1510,1515
+Kuwait,Asia,1004,Module 4,HO Managed,0,0,0,0
+Kuwait,Asia,1005,Module 5,HO Managed,7220,7840,9043,9206
+Kuwait,Asia,1006,Module 6,HO Managed,1900,2085,2291,2478
+Kuwait,Asia,1007,Module 7,HO Managed,1950,2104,2347,2592
+Kuwait,Asia,1008,Module 8,HO Managed,1000,1176,1363,1481
+Kuwait,Asia,1009,Module 9,HO Managed,1050,1116,1211,1309
+Lebannon,Asia,1001,Module 1,HO Managed,7500,7500,7500,17500
+Lebannon,Asia,1002,Module 2,HO Managed,5500,5750,5750,5875
+Lebannon,Asia,1003,Module 3,HO Managed,1500,1505,1510,1515
+Lebannon,Asia,1004,Module 4,HO Managed,0,0,0,0
+Lebannon,Asia,1005,Module 5,HO Managed,7920,9804,10590,11221
+Lebannon,Asia,1006,Module 6,HO Managed,1700,1905,2010,2216
+Lebannon,Asia,1007,Module 7,HO Managed,1650,1833,1986,2291
+Lebannon,Asia,1008,Module 8,HO Managed,1000,1106,1221,1430
+Lebannon,Asia,1009,Module 9,HO Managed,1410,1497,1605,1715
+Sri Lanka,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Sri Lanka,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Sri Lanka,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Sri Lanka,Asia,1004,Module 4,National Operator,0,0,0,0
+Sri Lanka,Asia,1005,Module 5,National Operator,2800,3950,4521,6426
+Sri Lanka,Asia,1006,Module 6,National Operator,1460,1644,1768,1934
+Sri Lanka,Asia,1007,Module 7,National Operator,2130,2404,2678,2834
+Sri Lanka,Asia,1008,Module 8,National Operator,1000,1116,1252,1430
+Sri Lanka,Asia,1009,Module 9,National Operator,1260,1367,1393,1491
+Myanmar,Asia,1001,Module 1,National Operator,10000,10000,10000,15750
+Myanmar,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Myanmar,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Myanmar,Asia,1004,Module 4,National Operator,0,0,0,0
+Myanmar,Asia,1005,Module 5,National Operator,18980,19890,20899,22421
+Myanmar,Asia,1006,Module 6,National Operator,3920,4110,4320,4472
+Myanmar,Asia,1007,Module 7,National Operator,2070,2374,2558,2773
+Myanmar,Asia,1008,Module 8,National Operator,1000,1136,1292,1420
+Myanmar,Asia,1009,Module 9,National Operator,1380,1477,1534,1593
+Malaysia,Asia,1001,Module 1,HO Managed,55000,60000,70000,80000
+Malaysia,Asia,1002,Module 2,HO Managed,5500,5750,5750,5875
+Malaysia,Asia,1003,Module 3,HO Managed,1500,1505,1510,1515
+Malaysia,Asia,1004,Module 4,HO Managed,0,0,0,0
+Malaysia,Asia,1005,Module 5,HO Managed,12560,13674,15232,17002
+Malaysia,Asia,1006,Module 6,HO Managed,1240,1444,1547,1692
+Malaysia,Asia,1007,Module 7,HO Managed,1590,1773,1986,2140
+Malaysia,Asia,1008,Module 8,HO Managed,1000,1116,1282,1441
+Malaysia,Asia,1009,Module 9,HO Managed,1450,1528,1615,1684
+Pakistan,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Pakistan,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Pakistan,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Pakistan,Asia,1004,Module 4,National Operator,0,0,0,0
+Pakistan,Asia,1005,Module 5,National Operator,5600,6456,7214,8662
+Pakistan,Asia,1006,Module 6,National Operator,1180,1303,1407,1531
+Pakistan,Asia,1007,Module 7,National Operator,1740,1983,2167,2321
+Pakistan,Asia,1008,Module 8,National Operator,1000,1136,1242,1370
+Pakistan,Asia,1009,Module 9,National Operator,1190,1276,1363,1461
+Philippines,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Philippines,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Philippines,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Philippines,Asia,1004,Module 4,National Operator,0,0,0,0
+Philippines,Asia,1005,Module 5,National Operator,14380,15759,16679,18594
+Philippines,Asia,1006,Module 6,National Operator,1720,1925,2070,2176
+Philippines,Asia,1007,Module 7,National Operator,2220,2374,2648,2954
+Philippines,Asia,1008,Module 8,National Operator,1000,1106,1312,1441
+Philippines,Asia,1009,Module 9,National Operator,1150,1256,1292,1390
+Saudi Arabia,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Saudi Arabia,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Saudi Arabia,Asia,1003,Module 3,National Operator,7500,7525,7548,7573
+Saudi Arabia,Asia,1004,Module 4,National Operator,0,0,0,0
+Saudi Arabia,Asia,1005,Module 5,National Operator,4220,4451,6049,6164
+Saudi Arabia,Asia,1006,Module 6,National Operator,1120,1303,1467,1632
+Saudi Arabia,Asia,1007,Module 7,National Operator,2070,2314,2588,2803
+Saudi Arabia,Asia,1008,Module 8,National Operator,1000,1116,1302,1471
+Saudi Arabia,Asia,1009,Module 9,National Operator,1500,1598,1635,1735
+Singapore,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Singapore,Asia,1002,Module 2,National Operator,11000,11500,11500,11750
+Singapore,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Singapore,Asia,1004,Module 4,National Operator,0,0,0,0
+Singapore,Asia,1005,Module 5,National Operator,5660,5794,5968,6809
+Singapore,Asia,1006,Module 6,National Operator,22000,22175,22426,22683
+Singapore,Asia,1007,Module 7,National Operator,1980,2254,2438,2713
+Singapore,Asia,1008,Module 8,National Operator,15000,15226,15445,15694
+Singapore,Asia,1009,Module 9,National Operator,1430,1508,1555,1643
+Thailand,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Thailand,Asia,1002,Module 2,National Operator,11000,11500,11500,11750
+Thailand,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Thailand,Asia,1004,Module 4,National Operator,0,0,0,0
+Thailand,Asia,1005,Module 5,National Operator,11900,13353,13524,13840
+Thailand,Asia,1006,Module 6,National Operator,1120,1303,1447,1591
+Thailand,Asia,1007,Module 7,National Operator,1800,2104,2347,2532
+Thailand,Asia,1008,Module 8,National Operator,1000,1176,1373,1481
+Thailand,Asia,1009,Module 9,National Operator,1040,1146,1221,1309
+Taiwan,Asia,1001,Module 1,National Operator,55000,60000,70000,80000
+Taiwan,Asia,1002,Module 2,National Operator,11000,11500,11500,11750
+Taiwan,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Taiwan,Asia,1004,Module 4,National Operator,0,0,0,0
+Taiwan,Asia,1005,Module 5,National Operator,17120,18787,20316,21958
+Taiwan,Asia,1006,Module 6,National Operator,1560,1764,1909,2075
+Taiwan,Asia,1007,Module 7,National Operator,1650,1923,2107,2412
+Taiwan,Asia,1008,Module 8,National Operator,1000,1206,1353,1562
+Taiwan,Asia,1009,Module 9,National Operator,1370,1427,1484,1552
+Vietnam,Asia,1001,Module 1,National Operator,20000,30000,30000,32000
+Vietnam,Asia,1002,Module 2,National Operator,5500,5750,5750,5875
+Vietnam,Asia,1003,Module 3,National Operator,1500,1505,1510,1515
+Vietnam,Asia,1004,Module 4,National Operator,0,0,0,0
+Vietnam,Asia,1005,Module 5,National Operator,19140,20210,20276,21736
+Vietnam,Asia,1006,Module 6,National Operator,1240,1444,1547,1672
+Vietnam,Asia,1007,Module 7,National Operator,2130,2344,2588,2803
+Vietnam,Asia,1008,Module 8,National Operator,1000,1206,1333,1542
+Vietnam,Asia,1009,Module 9,National Operator,1220,1307,1363,1430
+Austria,Europe,1001,Module 1,Directly Managed,55000,60000,70000,80000
+Austria,Europe,1002,Module 2,Directly Managed,60000,62500,62500,63750
+Austria,Europe,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Austria,Europe,1004,Module 4,Directly Managed,20000,20000,20000,20500
+Austria,Europe,1005,Module 5,Directly Managed,14700,15779,16659,18695
+Austria,Europe,1006,Module 6,Directly Managed,1800,1985,2110,2317
+Austria,Europe,1007,Module 7,Directly Managed,1830,2013,2167,2442
+Austria,Europe,1008,Module 8,Directly Managed,1000,1146,1282,1491
+Austria,Europe,1009,Module 9,Directly Managed,1260,1357,1454,1542
+Belgium,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Belgium,Europe,1002,Module 2,National Operator,72000,75000,75000,76500
+Belgium,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Belgium,Europe,1004,Module 4,National Operator,20000,20000,20000,20500
+Belgium,Europe,1005,Module 5,National Operator,9420,10847,10972,11261
+Belgium,Europe,1006,Module 6,National Operator,1140,1243,1366,1511
+Belgium,Europe,1007,Module 7,National Operator,1950,2134,2408,2562
+Belgium,Europe,1008,Module 8,National Operator,1000,1166,1373,1491
+Belgium,Europe,1009,Module 9,National Operator,1090,1156,1181,1278
+Bulgaria,Europe,1001,Module 1,HO Managed,7500,15000,15000,26250
+Bulgaria,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Bulgaria,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Bulgaria,Europe,1004,Module 4,HO Managed,0,0,0,0
+Bulgaria,Europe,1005,Module 5,HO Managed,7720,9664,10851,11140
+Bulgaria,Europe,1006,Module 6,HO Managed,1980,2105,2251,2357
+Bulgaria,Europe,1007,Module 7,HO Managed,1680,1863,2137,2321
+Bulgaria,Europe,1008,Module 8,HO Managed,1000,1186,1373,1491
+Bulgaria,Europe,1009,Module 9,HO Managed,1380,1437,1524,1593
+Bosnia and Herzegovina,Europe,1001,Module 1,HO Managed,7500,7500,7500,17500
+Bosnia and Herzegovina,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Bosnia and Herzegovina,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Bosnia and Herzegovina,Europe,1004,Module 4,HO Managed,0,0,0,0
+Bosnia and Herzegovina,Europe,1005,Module 5,HO Managed,2080,2807,3999,4130
+Bosnia and Herzegovina,Europe,1006,Module 6,HO Managed,1260,1464,1588,1773
+Bosnia and Herzegovina,Europe,1007,Module 7,HO Managed,2070,2284,2438,2713
+Bosnia and Herzegovina,Europe,1008,Module 8,HO Managed,1000,1206,1322,1532
+Bosnia and Herzegovina,Europe,1009,Module 9,HO Managed,1490,1558,1645,1735
+Switzerland,Europe,1001,Module 1,HO Managed,55000,60000,70000,80000
+Switzerland,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Switzerland,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Switzerland,Europe,1004,Module 4,HO Managed,40000,40000,40000,41000
+Switzerland,Europe,1005,Module 5,HO Managed,11700,13574,13665,14021
+Switzerland,Europe,1006,Module 6,HO Managed,1240,1343,1507,1652
+Switzerland,Europe,1007,Module 7,HO Managed,1800,1953,2197,2502
+Switzerland,Europe,1008,Module 8,HO Managed,1000,1126,1242,1441
+Switzerland,Europe,1009,Module 9,HO Managed,1050,1116,1211,1268
+Czech Republic,Europe,1001,Module 1,HO Managed,55000,60000,70000,80000
+Czech Republic,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Czech Republic,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Czech Republic,Europe,1004,Module 4,HO Managed,20000,20000,20000,20500
+Czech Republic,Europe,1005,Module 5,HO Managed,6740,8722,8741,10294
+Czech Republic,Europe,1006,Module 6,HO Managed,1080,1263,1467,1612
+Czech Republic,Europe,1007,Module 7,HO Managed,2220,2464,2739,2954
+Czech Republic,Europe,1008,Module 8,HO Managed,1000,1176,1302,1441
+Czech Republic,Europe,1009,Module 9,HO Managed,1200,1266,1302,1380
+Germany,Europe,1001,Module 1,Directly Managed,55000,60000,70000,80000
+Germany,Europe,1002,Module 2,Directly Managed,360000,375000,375000,382500
+Germany,Europe,1003,Module 3,Directly Managed,75000,75250,75475,75725
+Germany,Europe,1004,Module 4,Directly Managed,300000,300000,300000,307500
+Germany,Europe,1005,Module 5,Directly Managed,6980,8241,8400,10435
+Germany,Europe,1006,Module 6,Directly Managed,1920,2045,2210,2337
+Germany,Europe,1007,Module 7,Directly Managed,21750,22057,22270,22548
+Germany,Europe,1008,Module 8,Directly Managed,1000,1176,1292,1471
+Germany,Europe,1009,Module 9,Directly Managed,1380,1487,1545,1643
+Denmark,Europe,1001,Module 1,Directly Managed,15000,30000,22500,15000
+Denmark,Europe,1002,Module 2,Directly Managed,6000,6250,6250,6375
+Denmark,Europe,1003,Module 3,Directly Managed,1500,1505,1510,1515
+Denmark,Europe,1004,Module 4,Directly Managed,0,0,0,0
+Denmark,Europe,1005,Module 5,Directly Managed,3580,5494,7053,8098
+Denmark,Europe,1006,Module 6,Directly Managed,1680,1885,2030,2135
+Denmark,Europe,1007,Module 7,Directly Managed,1890,2194,2468,2683
+Denmark,Europe,1008,Module 8,Directly Managed,1000,1126,1292,1451
+Denmark,Europe,1009,Module 9,Directly Managed,1460,1518,1545,1613
+Spain,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Spain,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Spain,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Spain,Europe,1004,Module 4,National Operator,40000,40000,40000,41000
+Spain,Europe,1005,Module 5,National Operator,13440,14997,15071,15109
+Spain,Europe,1006,Module 6,National Operator,1060,1263,1427,1531
+Spain,Europe,1007,Module 7,National Operator,4140,4417,4574,4793
+Spain,Europe,1008,Module 8,National Operator,1000,1136,1302,1512
+Spain,Europe,1009,Module 9,National Operator,1400,1497,1585,1694
+Finland,Europe,1001,Module 1,HO Managed,15000,30000,22500,15000
+Finland,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Finland,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Finland,Europe,1004,Module 4,HO Managed,0,0,0,0
+Finland,Europe,1005,Module 5,HO Managed,10420,11509,12278,13074
+Finland,Europe,1006,Module 6,HO Managed,1820,1985,2150,2317
+Finland,Europe,1007,Module 7,HO Managed,1650,1863,2107,2261
+Finland,Europe,1008,Module 8,HO Managed,1000,1156,1292,1410
+Finland,Europe,1009,Module 9,HO Managed,1470,1528,1565,1643
+France,Europe,1001,Module 1,Directly Managed,55000,60000,70000,80000
+France,Europe,1002,Module 2,Directly Managed,240000,250000,250000,255000
+France,Europe,1003,Module 3,Directly Managed,1500,1505,1510,1515
+France,Europe,1004,Module 4,Directly Managed,180000,180000,180000,184500
+France,Europe,1005,Module 5,Directly Managed,15420,16982,18447,18493
+France,Europe,1006,Module 6,Directly Managed,1840,1945,2070,2276
+France,Europe,1007,Module 7,Directly Managed,1710,1953,2107,2351
+France,Europe,1008,Module 8,Directly Managed,1000,1136,1262,1420
+France,Europe,1009,Module 9,Directly Managed,1020,1106,1141,1228
+United Kingdom,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+United Kingdom,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+United Kingdom,Europe,1003,Module 3,National Operator,150000,150500,196235,204458
+United Kingdom,Europe,1004,Module 4,National Operator,20000,20000,20000,20500
+United Kingdom,Europe,1005,Module 5,National Operator,32440,32702,33418,33844
+United Kingdom,Europe,1006,Module 6,National Operator,49880,50105,50378,50604
+United Kingdom,Europe,1007,Module 7,National Operator,27690,27947,28169,28457
+United Kingdom,Europe,1008,Module 8,National Operator,1000,1116,1232,1390
+United Kingdom,Europe,1009,Module 9,National Operator,1380,1487,1575,1674
+Greece,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Greece,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Greece,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Greece,Europe,1004,Module 4,National Operator,0,0,0,0
+Greece,Europe,1005,Module 5,National Operator,7720,7880,9284,10677
+Greece,Europe,1006,Module 6,National Operator,1060,1243,1427,1612
+Greece,Europe,1007,Module 7,National Operator,1800,2013,2257,2412
+Greece,Europe,1008,Module 8,National Operator,1000,1186,1312,1512
+Greece,Europe,1009,Module 9,National Operator,1240,1296,1363,1461
+Croatia,Europe,1001,Module 1,HO Managed,7500,7500,7500,17500
+Croatia,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Croatia,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Croatia,Europe,1004,Module 4,HO Managed,0,0,0,0
+Croatia,Europe,1005,Module 5,HO Managed,11720,12070,12941,14222
+Croatia,Europe,1006,Module 6,HO Managed,1600,1724,1909,2015
+Croatia,Europe,1007,Module 7,HO Managed,2130,2434,2739,2984
+Croatia,Europe,1008,Module 8,HO Managed,1000,1136,1322,1430
+Croatia,Europe,1009,Module 9,HO Managed,1020,1095,1181,1278
+Hungary,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Hungary,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Hungary,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Hungary,Europe,1004,Module 4,National Operator,20000,20000,20000,20500
+Hungary,Europe,1005,Module 5,National Operator,13060,15038,15976,17929
+Hungary,Europe,1006,Module 6,National Operator,1660,1845,2050,2176
+Hungary,Europe,1007,Module 7,National Operator,2250,2524,2769,2924
+Hungary,Europe,1008,Module 8,National Operator,1000,1126,1262,1380
+Hungary,Europe,1009,Module 9,National Operator,1400,1457,1504,1583
+Ireland,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Ireland,Europe,1002,Module 2,National Operator,12000,12500,12500,12750
+Ireland,Europe,1003,Module 3,National Operator,15000,15050,15095,15145
+Ireland,Europe,1004,Module 4,National Operator,20000,20000,20000,20500
+Ireland,Europe,1005,Module 5,National Operator,2620,3409,4963,6990
+Ireland,Europe,1006,Module 6,National Operator,1600,1724,1889,2015
+Ireland,Europe,1007,Module 7,National Operator,1950,2224,2468,2623
+Ireland,Europe,1008,Module 8,National Operator,1000,1106,1302,1420
+Ireland,Europe,1009,Module 9,National Operator,1230,1327,1413,1512
+Italy,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Italy,Europe,1002,Module 2,National Operator,240000,250000,250000,255000
+Italy,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Italy,Europe,1004,Module 4,National Operator,200000,200000,200000,205000
+Italy,Europe,1005,Module 5,National Operator,6520,8361,10369,10878
+Italy,Europe,1006,Module 6,National Operator,1020,1223,1387,1591
+Italy,Europe,1007,Module 7,National Operator,2130,2344,2528,2773
+Italy,Europe,1008,Module 8,National Operator,1000,1176,1373,1583
+Italy,Europe,1009,Module 9,National Operator,1230,1296,1322,1410
+Netherlands,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Netherlands,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Netherlands,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Netherlands,Europe,1004,Module 4,National Operator,100000,100000,100000,102500
+Netherlands,Europe,1005,Module 5,National Operator,14020,15840,17302,17587
+Netherlands,Europe,1006,Module 6,National Operator,1160,1323,1447,1632
+Netherlands,Europe,1007,Module 7,National Operator,2130,2404,2678,2954
+Netherlands,Europe,1008,Module 8,National Operator,1000,1126,1322,1512
+Netherlands,Europe,1009,Module 9,National Operator,1170,1256,1312,1410
+Norway,Europe,1001,Module 1,HO Managed,15000,30000,22500,15000
+Norway,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Norway,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Norway,Europe,1004,Module 4,HO Managed,0,0,0,0
+Norway,Europe,1005,Module 5,HO Managed,5720,6797,8500,10234
+Norway,Europe,1006,Module 6,HO Managed,1540,1704,1849,2035
+Norway,Europe,1007,Module 7,HO Managed,2130,2314,2528,2743
+Norway,Europe,1008,Module 8,HO Managed,1000,1166,1312,1441
+Norway,Europe,1009,Module 9,HO Managed,1160,1256,1343,1420
+Poland,Europe,1001,Module 1,HO Managed,55000,60000,70000,80000
+Poland,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Poland,Europe,1003,Module 3,HO Managed,15000,15050,15095,15145
+Poland,Europe,1004,Module 4,HO Managed,40000,40000,40000,41000
+Poland,Europe,1005,Module 5,HO Managed,6900,8902,9505,10858
+Poland,Europe,1006,Module 6,HO Managed,1820,1965,2110,2216
+Poland,Europe,1007,Module 7,HO Managed,2160,2434,2618,2864
+Poland,Europe,1008,Module 8,HO Managed,1000,1116,1312,1491
+Poland,Europe,1009,Module 9,HO Managed,1420,1477,1504,1603
+Portugal,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Portugal,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Portugal,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Portugal,Europe,1004,Module 4,National Operator,40000,40000,40000,41000
+Portugal,Europe,1005,Module 5,National Operator,4620,6095,6953,8541
+Portugal,Europe,1006,Module 6,National Operator,1020,1203,1326,1511
+Portugal,Europe,1007,Module 7,National Operator,1500,1683,1986,2201
+Portugal,Europe,1008,Module 8,National Operator,1000,1166,1272,1400
+Portugal,Europe,1009,Module 9,National Operator,1470,1558,1625,1694
+Romania,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Romania,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Romania,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Romania,Europe,1004,Module 4,National Operator,40000,40000,40000,41000
+Romania,Europe,1005,Module 5,National Operator,5480,6657,8319,9992
+Romania,Europe,1006,Module 6,National Operator,1540,1684,1849,1994
+Romania,Europe,1007,Module 7,National Operator,1710,1893,2167,2442
+Romania,Europe,1008,Module 8,National Operator,1000,1196,1343,1542
+Romania,Europe,1009,Module 9,National Operator,1020,1085,1131,1197
+Serbia,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Serbia,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Serbia,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Serbia,Europe,1004,Module 4,National Operator,0,0,0,0
+Serbia,Europe,1005,Module 5,National Operator,12920,14356,16136,16660
+Serbia,Europe,1006,Module 6,National Operator,1360,1564,1748,1873
+Serbia,Europe,1007,Module 7,National Operator,1950,2104,2408,2562
+Serbia,Europe,1008,Module 8,National Operator,1000,1186,1333,1491
+Serbia,Europe,1009,Module 9,National Operator,1120,1226,1252,1319
+Slovak Republic,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Slovak Republic,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Slovak Republic,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Slovak Republic,Europe,1004,Module 4,National Operator,0,0,0,0
+Slovak Republic,Europe,1005,Module 5,National Operator,19200,20291,21562,23207
+Slovak Republic,Europe,1006,Module 6,National Operator,1280,1484,1608,1813
+Slovak Republic,Europe,1007,Module 7,National Operator,1860,2104,2257,2412
+Slovak Republic,Europe,1008,Module 8,National Operator,1000,1116,1262,1451
+Slovak Republic,Europe,1009,Module 9,National Operator,1370,1457,1565,1633
+Slovenia,Europe,1001,Module 1,National Operator,10000,10000,10000,15750
+Slovenia,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Slovenia,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Slovenia,Europe,1004,Module 4,National Operator,0,0,0,0
+Slovenia,Europe,1005,Module 5,National Operator,3180,4992,6792,7776
+Slovenia,Europe,1006,Module 6,National Operator,1120,1223,1407,1511
+Slovenia,Europe,1007,Module 7,National Operator,2130,2314,2558,2743
+Slovenia,Europe,1008,Module 8,National Operator,1000,1126,1322,1441
+Slovenia,Europe,1009,Module 9,National Operator,1210,1266,1353,1420
+Sweden,Europe,1001,Module 1,HO Managed,15000,30000,22500,15000
+Sweden,Europe,1002,Module 2,HO Managed,6000,6250,6250,6375
+Sweden,Europe,1003,Module 3,HO Managed,1500,1505,1510,1515
+Sweden,Europe,1004,Module 4,HO Managed,0,0,0,0
+Sweden,Europe,1005,Module 5,HO Managed,19360,21012,21743,22160
+Sweden,Europe,1006,Module 6,HO Managed,1020,1143,1346,1491
+Sweden,Europe,1007,Module 7,HO Managed,2130,2434,2588,2894
+Sweden,Europe,1008,Module 8,HO Managed,1000,1116,1242,1400
+Sweden,Europe,1009,Module 9,HO Managed,1130,1196,1242,1299
+Turkey,Europe,1001,Module 1,National Operator,55000,60000,70000,80000
+Turkey,Europe,1002,Module 2,National Operator,6000,6250,6250,6375
+Turkey,Europe,1003,Module 3,National Operator,1500,1505,1510,1515
+Turkey,Europe,1004,Module 4,National Operator,0,0,0,0
+Turkey,Europe,1005,Module 5,National Operator,15840,17123,17523,17768
+Turkey,Europe,1006,Module 6,National Operator,1660,1825,2010,2115
+Turkey,Europe,1007,Module 7,National Operator,1500,1803,2077,2291
+Turkey,Europe,1008,Module 8,National Operator,1000,1146,1322,1481
+Turkey,Europe,1009,Module 9,National Operator,1440,1548,1656,1715
