@@ -1,0 +1,913 @@
+,Territory_name,Entity,gl_CODE,Gl_description,Operation,2017A_amount,2018A_amount,2019F_amount,2020B_amount
+0,Burundi,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+1,Burundi,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+2,Burundi,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+3,Burundi,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+4,Burundi,Africa,1005.0,Module 5,National Operator,2720.0,4571.0,5144.0,6890.0
+5,Burundi,Africa,1006.0,Module 6,National Operator,2000.0,2206.0,2331.0,2438.0
+6,Burundi,Africa,1007.0,Module 7,National Operator,1950.0,2134.0,2438.0,2592.0
+7,Burundi,Africa,1008.0,Module 8,National Operator,1000.0,1166.0,1343.0,1491.0
+8,Burundi,Africa,1009.0,Module 9,National Operator,1410.0,1518.0,1575.0,1674.0
+9,Benin,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+10,Benin,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+11,Benin,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+12,Benin,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+13,Benin,Africa,1005.0,Module 5,National Operator,15560.0,16942.0,18507.0,18695.0
+14,Benin,Africa,1006.0,Module 6,National Operator,1180.0,1283.0,1467.0,1672.0
+15,Benin,Africa,1007.0,Module 7,National Operator,2010.0,2284.0,2528.0,2803.0
+16,Benin,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1343.0,1461.0
+17,Benin,Africa,1009.0,Module 9,National Operator,1360.0,1447.0,1494.0,1552.0
+18,Burkina Faso,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+19,Burkina Faso,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+20,Burkina Faso,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+21,Burkina Faso,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+22,Burkina Faso,Africa,1005.0,Module 5,National Operator,12120.0,13554.0,15071.0,16599.0
+23,Burkina Faso,Africa,1006.0,Module 6,National Operator,1560.0,1744.0,1889.0,2035.0
+24,Burkina Faso,Africa,1007.0,Module 7,National Operator,1620.0,1833.0,2107.0,2321.0
+25,Burkina Faso,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1272.0,1390.0
+26,Burkina Faso,Africa,1009.0,Module 9,National Operator,1090.0,1196.0,1252.0,1319.0
+27,Botswana,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+28,Botswana,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+29,Botswana,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+30,Botswana,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+31,Botswana,Africa,1005.0,Module 5,Directly Managed,12340.0,13534.0,15132.0,16821.0
+32,Botswana,Africa,1006.0,Module 6,Directly Managed,1960.0,2085.0,2291.0,2478.0
+33,Botswana,Africa,1007.0,Module 7,Directly Managed,1830.0,2013.0,2317.0,2532.0
+34,Botswana,Africa,1008.0,Module 8,Directly Managed,1000.0,1106.0,1262.0,1471.0
+35,Botswana,Africa,1009.0,Module 9,Directly Managed,1290.0,1347.0,1373.0,1461.0
+36,Central African Republic,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+37,Central African Republic,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+38,Central African Republic,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+39,Central African Republic,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+40,Central African Republic,Africa,1005.0,Module 5,National Operator,14620.0,16581.0,17784.0,18292.0
+41,Central African Republic,Africa,1006.0,Module 6,National Operator,1740.0,1945.0,2110.0,2216.0
+42,Central African Republic,Africa,1007.0,Module 7,National Operator,1890.0,2134.0,2347.0,2653.0
+43,Central African Republic,Africa,1008.0,Module 8,National Operator,1000.0,1146.0,1333.0,1461.0
+44,Central African Republic,Africa,1009.0,Module 9,National Operator,1220.0,1307.0,1383.0,1451.0
+45,Cote d'Ivoire,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+46,Cote d'Ivoire,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+47,Cote d'Ivoire,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+48,Cote d'Ivoire,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+49,Cote d'Ivoire,Africa,1005.0,Module 5,Directly Managed,18260.0,18626.0,19512.0,19742.0
+50,Cote d'Ivoire,Africa,1006.0,Module 6,Directly Managed,1640.0,1744.0,1929.0,2035.0
+51,Cote d'Ivoire,Africa,1007.0,Module 7,Directly Managed,1830.0,2043.0,2257.0,2532.0
+52,Cote d'Ivoire,Africa,1008.0,Module 8,Directly Managed,1000.0,1116.0,1221.0,1390.0
+53,Cote d'Ivoire,Africa,1009.0,Module 9,Directly Managed,1270.0,1327.0,1393.0,1491.0
+54,Cameroon,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+55,Cameroon,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+56,Cameroon,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+57,Cameroon,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+58,Cameroon,Africa,1005.0,Module 5,Directly Managed,6480.0,7679.0,8400.0,9891.0
+59,Cameroon,Africa,1006.0,Module 6,Directly Managed,1680.0,1805.0,1929.0,2035.0
+60,Cameroon,Africa,1007.0,Module 7,Directly Managed,1500.0,1683.0,1896.0,2110.0
+61,Cameroon,Africa,1008.0,Module 8,Directly Managed,1000.0,1166.0,1363.0,1512.0
+62,Cameroon,Africa,1009.0,Module 9,Directly Managed,1340.0,1407.0,1514.0,1623.0
+63,Djibouti,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+64,Djibouti,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+65,Djibouti,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+66,Djibouti,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+67,Djibouti,Africa,1005.0,Module 5,National Operator,14440.0,14677.0,14931.0,15673.0
+68,Djibouti,Africa,1006.0,Module 6,National Operator,1300.0,1404.0,1588.0,1773.0
+69,Djibouti,Africa,1007.0,Module 7,National Operator,1740.0,1923.0,2197.0,2502.0
+70,Djibouti,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1322.0,1481.0
+71,Djibouti,Africa,1009.0,Module 9,National Operator,1270.0,1367.0,1454.0,1512.0
+72,Algeria,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+73,Algeria,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+74,Algeria,Africa,1003.0,Module 3,National Operator,13500.0,22575.0,22643.0,24232.0
+75,Algeria,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+76,Algeria,Africa,1005.0,Module 5,National Operator,16440.0,17564.0,18407.0,19299.0
+77,Algeria,Africa,1006.0,Module 6,National Operator,1240.0,1343.0,1547.0,1692.0
+78,Algeria,Africa,1007.0,Module 7,National Operator,2160.0,2404.0,2648.0,2924.0
+79,Algeria,Africa,1008.0,Module 8,National Operator,1080.0,1256.0,1454.0,1623.0
+80,Algeria,Africa,1009.0,Module 9,National Operator,1030.0,1126.0,1221.0,1299.0
+81,Egypt,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+82,Egypt,Africa,1002.0,Module 2,National Operator,50000.0,52500.0,52500.0,53750.0
+83,Egypt,Africa,1003.0,Module 3,National Operator,27000.0,27090.0,33209.0,34834.0
+84,Egypt,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+85,Egypt,Africa,1005.0,Module 5,National Operator,42620.0,43268.0,43365.0,45427.0
+86,Egypt,Africa,1006.0,Module 6,National Operator,1800.0,2005.0,2130.0,2256.0
+87,Egypt,Africa,1007.0,Module 7,National Operator,2070.0,2314.0,2618.0,2864.0
+88,Egypt,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1252.0,1390.0
+89,Egypt,Africa,1009.0,Module 9,National Operator,1370.0,1447.0,1555.0,1623.0
+90,Eritrea,Africa,1001.0,Module 1,HO Managed,10000.0,10000.0,10000.0,15750.0
+91,Eritrea,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+92,Eritrea,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+93,Eritrea,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+94,Eritrea,Africa,1005.0,Module 5,HO Managed,6780.0,8060.0,9806.0,11382.0
+95,Eritrea,Africa,1006.0,Module 6,HO Managed,2000.0,2185.0,2371.0,2538.0
+96,Eritrea,Africa,1007.0,Module 7,HO Managed,1710.0,2013.0,2257.0,2562.0
+97,Eritrea,Africa,1008.0,Module 8,HO Managed,1000.0,1146.0,1272.0,1461.0
+98,Eritrea,Africa,1009.0,Module 9,HO Managed,1250.0,1347.0,1454.0,1552.0
+99,Ethiopia,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+100,Ethiopia,Africa,1002.0,Module 2,National Operator,50000.0,52500.0,52500.0,53750.0
+101,Ethiopia,Africa,1003.0,Module 3,National Operator,22500.0,22575.0,24152.0,25747.0
+102,Ethiopia,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+103,Ethiopia,Africa,1005.0,Module 5,National Operator,52460.0,53674.0,55141.0,55278.0
+104,Ethiopia,Africa,1006.0,Module 6,National Operator,1520.0,1664.0,1809.0,1954.0
+105,Ethiopia,Africa,1007.0,Module 7,National Operator,1890.0,2164.0,2347.0,2502.0
+106,Ethiopia,Africa,1008.0,Module 8,National Operator,1000.0,1126.0,1333.0,1501.0
+107,Ethiopia,Africa,1009.0,Module 9,National Operator,1320.0,1417.0,1504.0,1613.0
+108,Ghana,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+109,Ghana,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+110,Ghana,Africa,1003.0,Module 3,National Operator,15000.0,15050.0,16605.0,16660.0
+111,Ghana,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+112,Ghana,Africa,1005.0,Module 5,National Operator,14480.0,16301.0,18005.0,18795.0
+113,Ghana,Africa,1006.0,Module 6,National Operator,1380.0,1564.0,1668.0,1833.0
+114,Ghana,Africa,1007.0,Module 7,National Operator,1950.0,2164.0,2468.0,2623.0
+115,Ghana,Africa,1008.0,Module 8,National Operator,1000.0,1166.0,1302.0,1501.0
+116,Ghana,Africa,1009.0,Module 9,National Operator,1100.0,1156.0,1211.0,1319.0
+117,Equatorial Guinea,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+118,Equatorial Guinea,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+119,Equatorial Guinea,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+120,Equatorial Guinea,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+121,Equatorial Guinea,Africa,1005.0,Module 5,Directly Managed,6880.0,8120.0,8339.0,9811.0
+122,Equatorial Guinea,Africa,1006.0,Module 6,Directly Managed,1680.0,1885.0,1989.0,2115.0
+123,Equatorial Guinea,Africa,1007.0,Module 7,Directly Managed,1500.0,1743.0,2016.0,2170.0
+124,Equatorial Guinea,Africa,1008.0,Module 8,Directly Managed,1000.0,1196.0,1343.0,1512.0
+125,Equatorial Guinea,Africa,1009.0,Module 9,Directly Managed,1480.0,1578.0,1615.0,1704.0
+126,Kenya,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+127,Kenya,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+128,Kenya,Africa,1003.0,Module 3,National Operator,30000.0,33110.0,33209.0,33319.0
+129,Kenya,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+130,Kenya,Africa,1005.0,Module 5,National Operator,32860.0,34586.0,35367.0,35556.0
+131,Kenya,Africa,1006.0,Module 6,National Operator,1440.0,1624.0,1768.0,1914.0
+132,Kenya,Africa,1007.0,Module 7,National Operator,2460.0,2765.0,2919.0,3165.0
+133,Kenya,Africa,1008.0,Module 8,National Operator,1000.0,1126.0,1302.0,1430.0
+134,Kenya,Africa,1009.0,Module 9,National Operator,1000.0,1075.0,1121.0,1197.0
+135,Libya,Africa,1001.0,Module 1,HO Managed,10000.0,10000.0,10000.0,15750.0
+136,Libya,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+137,Libya,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+138,Libya,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+139,Libya,Africa,1005.0,Module 5,HO Managed,7280.0,8822.0,9746.0,11664.0
+140,Libya,Africa,1006.0,Module 6,HO Managed,1780.0,1905.0,2010.0,2135.0
+141,Libya,Africa,1007.0,Module 7,HO Managed,2040.0,2194.0,2498.0,2713.0
+142,Libya,Africa,1008.0,Module 8,HO Managed,1000.0,1186.0,1373.0,1542.0
+143,Libya,Africa,1009.0,Module 9,HO Managed,1310.0,1417.0,1524.0,1583.0
+144,Lesotho,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+145,Lesotho,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+146,Lesotho,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+147,Lesotho,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+148,Lesotho,Africa,1005.0,Module 5,Directly Managed,19580.0,21253.0,21783.0,23469.0
+149,Lesotho,Africa,1006.0,Module 6,Directly Managed,1320.0,1504.0,1708.0,1914.0
+150,Lesotho,Africa,1007.0,Module 7,Directly Managed,2220.0,2374.0,2618.0,2834.0
+151,Lesotho,Africa,1008.0,Module 8,Directly Managed,1000.0,1196.0,1373.0,1562.0
+152,Lesotho,Africa,1009.0,Module 9,Directly Managed,1420.0,1528.0,1635.0,1704.0
+153,Morocco,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+154,Morocco,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+155,Morocco,Africa,1003.0,Module 3,National Operator,7500.0,7525.0,7548.0,7573.0
+156,Morocco,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+157,Morocco,Africa,1005.0,Module 5,National Operator,12940.0,13935.0,14408.0,15189.0
+158,Morocco,Africa,1006.0,Module 6,National Operator,1820.0,1925.0,2090.0,2216.0
+159,Morocco,Africa,1007.0,Module 7,National Operator,1980.0,2134.0,2408.0,2562.0
+160,Morocco,Africa,1008.0,Module 8,National Operator,1000.0,1146.0,1272.0,1410.0
+161,Morocco,Africa,1009.0,Module 9,National Operator,1210.0,1307.0,1413.0,1481.0
+162,Madagascar,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+163,Madagascar,Africa,1002.0,Module 2,National Operator,10000.0,10500.0,10500.0,10750.0
+164,Madagascar,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+165,Madagascar,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+166,Madagascar,Africa,1005.0,Module 5,National Operator,5200.0,6977.0,7033.0,7877.0
+167,Madagascar,Africa,1006.0,Module 6,National Operator,1420.0,1564.0,1768.0,1914.0
+168,Madagascar,Africa,1007.0,Module 7,National Operator,1680.0,1833.0,2107.0,2261.0
+169,Madagascar,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1333.0,1461.0
+170,Madagascar,Africa,1009.0,Module 9,National Operator,1190.0,1266.0,1353.0,1420.0
+171,Mozambique,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+172,Mozambique,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+173,Mozambique,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+174,Mozambique,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+175,Mozambique,Africa,1005.0,Module 5,Directly Managed,18760.0,19469.0,21421.0,21898.0
+176,Mozambique,Africa,1006.0,Module 6,Directly Managed,1660.0,1865.0,2070.0,2176.0
+177,Mozambique,Africa,1007.0,Module 7,Directly Managed,2250.0,2464.0,2648.0,2803.0
+178,Mozambique,Africa,1008.0,Module 8,Directly Managed,1000.0,1116.0,1322.0,1471.0
+179,Mozambique,Africa,1009.0,Module 9,Directly Managed,1440.0,1548.0,1605.0,1694.0
+180,Mauritius,Africa,1001.0,Module 1,HO Managed,10000.0,10000.0,10000.0,15750.0
+181,Mauritius,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+182,Mauritius,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+183,Mauritius,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+184,Mauritius,Africa,1005.0,Module 5,HO Managed,3900.0,4211.0,5124.0,6406.0
+185,Mauritius,Africa,1006.0,Module 6,HO Managed,1420.0,1584.0,1688.0,1813.0
+186,Mauritius,Africa,1007.0,Module 7,HO Managed,2010.0,2254.0,2528.0,2834.0
+187,Mauritius,Africa,1008.0,Module 8,HO Managed,1000.0,1156.0,1262.0,1370.0
+188,Mauritius,Africa,1009.0,Module 9,HO Managed,1010.0,1075.0,1100.0,1177.0
+189,Malawi,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+190,Malawi,Africa,1002.0,Module 2,Directly Managed,10000.0,10500.0,10500.0,10750.0
+191,Malawi,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+192,Malawi,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+193,Malawi,Africa,1005.0,Module 5,Directly Managed,9660.0,11248.0,12760.0,13396.0
+194,Malawi,Africa,1006.0,Module 6,Directly Managed,1800.0,1905.0,2110.0,2317.0
+195,Malawi,Africa,1007.0,Module 7,Directly Managed,2160.0,2374.0,2528.0,2713.0
+196,Malawi,Africa,1008.0,Module 8,Directly Managed,1000.0,1196.0,1373.0,1481.0
+197,Malawi,Africa,1009.0,Module 9,Directly Managed,1340.0,1427.0,1504.0,1562.0
+198,Namibia,Africa,1001.0,Module 1,HO Managed,10000.0,10000.0,10000.0,15750.0
+199,Namibia,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+200,Namibia,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+201,Namibia,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+202,Namibia,Africa,1005.0,Module 5,HO Managed,13600.0,14336.0,14730.0,15089.0
+203,Namibia,Africa,1006.0,Module 6,HO Managed,1000.0,1203.0,1306.0,1511.0
+204,Namibia,Africa,1007.0,Module 7,HO Managed,2040.0,2314.0,2468.0,2743.0
+205,Namibia,Africa,1008.0,Module 8,HO Managed,1000.0,1156.0,1333.0,1451.0
+206,Namibia,Africa,1009.0,Module 9,HO Managed,1400.0,1477.0,1585.0,1643.0
+207,Niger,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+208,Niger,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+209,Niger,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+210,Niger,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+211,Niger,Africa,1005.0,Module 5,National Operator,19200.0,19829.0,21220.0,22462.0
+212,Niger,Africa,1006.0,Module 6,National Operator,1980.0,2185.0,2391.0,2599.0
+213,Niger,Africa,1007.0,Module 7,National Operator,1740.0,1983.0,2257.0,2562.0
+214,Niger,Africa,1008.0,Module 8,National Operator,1000.0,1176.0,1312.0,1471.0
+215,Niger,Africa,1009.0,Module 9,National Operator,1470.0,1538.0,1605.0,1704.0
+216,Nigeria,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+217,Nigeria,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+218,Nigeria,Africa,1003.0,Module 3,National Operator,7500.0,7525.0,7548.0,7573.0
+219,Nigeria,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+220,Nigeria,Africa,1005.0,Module 5,National Operator,13640.0,15198.0,16980.0,17325.0
+221,Nigeria,Africa,1006.0,Module 6,National Operator,1240.0,1404.0,1608.0,1732.0
+222,Nigeria,Africa,1007.0,Module 7,National Operator,2190.0,2434.0,2618.0,2773.0
+223,Nigeria,Africa,1008.0,Module 8,National Operator,1000.0,1196.0,1353.0,1471.0
+224,Nigeria,Africa,1009.0,Module 9,National Operator,1340.0,1397.0,1444.0,1501.0
+225,Rwanda,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+226,Rwanda,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+227,Rwanda,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+228,Rwanda,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+229,Rwanda,Africa,1005.0,Module 5,National Operator,3620.0,4010.0,4280.0,5318.0
+230,Rwanda,Africa,1006.0,Module 6,National Operator,1640.0,1764.0,1949.0,2095.0
+231,Rwanda,Africa,1007.0,Module 7,National Operator,2190.0,2374.0,2558.0,2713.0
+232,Rwanda,Africa,1008.0,Module 8,National Operator,1000.0,1166.0,1353.0,1501.0
+233,Rwanda,Africa,1009.0,Module 9,National Operator,1290.0,1387.0,1484.0,1583.0
+234,Senegal,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+235,Senegal,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+236,Senegal,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+237,Senegal,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+238,Senegal,Africa,1005.0,Module 5,Directly Managed,7840.0,8020.0,9987.0,11080.0
+239,Senegal,Africa,1006.0,Module 6,Directly Managed,1180.0,1323.0,1427.0,1591.0
+240,Senegal,Africa,1007.0,Module 7,Directly Managed,1950.0,2254.0,2468.0,2743.0
+241,Senegal,Africa,1008.0,Module 8,Directly Managed,1000.0,1206.0,1383.0,1572.0
+242,Senegal,Africa,1009.0,Module 9,Directly Managed,1460.0,1518.0,1585.0,1684.0
+243,Sierra Leone,Africa,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+244,Sierra Leone,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+245,Sierra Leone,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+246,Sierra Leone,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+247,Sierra Leone,Africa,1005.0,Module 5,HO Managed,13900.0,14015.0,15353.0,15532.0
+248,Sierra Leone,Africa,1006.0,Module 6,HO Managed,1220.0,1404.0,1547.0,1712.0
+249,Sierra Leone,Africa,1007.0,Module 7,HO Managed,1650.0,1863.0,2016.0,2291.0
+250,Sierra Leone,Africa,1008.0,Module 8,HO Managed,1000.0,1116.0,1242.0,1370.0
+251,Sierra Leone,Africa,1009.0,Module 9,HO Managed,1390.0,1457.0,1524.0,1633.0
+252,Somalia,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+253,Somalia,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+254,Somalia,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+255,Somalia,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+256,Somalia,Africa,1005.0,Module 5,National Operator,3120.0,3308.0,3758.0,3848.0
+257,Somalia,Africa,1006.0,Module 6,National Operator,1300.0,1444.0,1567.0,1732.0
+258,Somalia,Africa,1007.0,Module 7,National Operator,1530.0,1773.0,1956.0,2231.0
+259,Somalia,Africa,1008.0,Module 8,National Operator,1000.0,1166.0,1322.0,1441.0
+260,Somalia,Africa,1009.0,Module 9,National Operator,1230.0,1307.0,1373.0,1461.0
+261,Chad,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+262,Chad,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+263,Chad,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+264,Chad,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+265,Chad,Africa,1005.0,Module 5,National Operator,10680.0,12591.0,13303.0,13497.0
+266,Chad,Africa,1006.0,Module 6,National Operator,1140.0,1263.0,1467.0,1612.0
+267,Chad,Africa,1007.0,Module 7,National Operator,1740.0,2013.0,2317.0,2532.0
+268,Chad,Africa,1008.0,Module 8,National Operator,1000.0,1196.0,1373.0,1552.0
+269,Chad,Africa,1009.0,Module 9,National Operator,1400.0,1508.0,1585.0,1643.0
+270,Togo,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+271,Togo,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+272,Togo,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+273,Togo,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+274,Togo,Africa,1005.0,Module 5,Directly Managed,5980.0,7298.0,7897.0,7957.0
+275,Togo,Africa,1006.0,Module 6,Directly Managed,1640.0,1784.0,1949.0,2115.0
+276,Togo,Africa,1007.0,Module 7,Directly Managed,2100.0,2314.0,2468.0,2653.0
+277,Togo,Africa,1008.0,Module 8,Directly Managed,1000.0,1106.0,1262.0,1380.0
+278,Togo,Africa,1009.0,Module 9,Directly Managed,1100.0,1166.0,1262.0,1359.0
+279,Tunisia,Africa,1001.0,Module 1,HO Managed,10000.0,10000.0,10000.0,15750.0
+280,Tunisia,Africa,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+281,Tunisia,Africa,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+282,Tunisia,Africa,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+283,Tunisia,Africa,1005.0,Module 5,HO Managed,10980.0,12732.0,13423.0,14182.0
+284,Tunisia,Africa,1006.0,Module 6,HO Managed,1440.0,1544.0,1708.0,1833.0
+285,Tunisia,Africa,1007.0,Module 7,HO Managed,1890.0,2164.0,2317.0,2502.0
+286,Tunisia,Africa,1008.0,Module 8,HO Managed,1000.0,1206.0,1413.0,1593.0
+287,Tunisia,Africa,1009.0,Module 9,HO Managed,1040.0,1095.0,1131.0,1197.0
+288,Tanzania,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+289,Tanzania,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+290,Tanzania,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+291,Tanzania,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+292,Tanzania,Africa,1005.0,Module 5,National Operator,12120.0,13654.0,15674.0,15834.0
+293,Tanzania,Africa,1006.0,Module 6,National Operator,1000.0,1103.0,1286.0,1450.0
+294,Tanzania,Africa,1007.0,Module 7,National Operator,2190.0,2374.0,2678.0,2834.0
+295,Tanzania,Africa,1008.0,Module 8,National Operator,1000.0,1136.0,1272.0,1390.0
+296,Tanzania,Africa,1009.0,Module 9,National Operator,1000.0,1095.0,1141.0,1217.0
+297,South Africa,Africa,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+298,South Africa,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+299,South Africa,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+300,South Africa,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+301,South Africa,Africa,1005.0,Module 5,National Operator,3860.0,5273.0,5948.0,6285.0
+302,South Africa,Africa,1006.0,Module 6,National Operator,1220.0,1343.0,1527.0,1732.0
+303,South Africa,Africa,1007.0,Module 7,National Operator,1560.0,1803.0,2016.0,2231.0
+304,South Africa,Africa,1008.0,Module 8,National Operator,1000.0,1106.0,1252.0,1420.0
+305,South Africa,Africa,1009.0,Module 9,National Operator,1380.0,1467.0,1504.0,1562.0
+306,Zambia,Africa,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+307,Zambia,Africa,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+308,Zambia,Africa,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+309,Zambia,Africa,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+310,Zambia,Africa,1005.0,Module 5,National Operator,10440.0,11108.0,11153.0,12591.0
+311,Zambia,Africa,1006.0,Module 6,National Operator,1540.0,1644.0,1829.0,2015.0
+312,Zambia,Africa,1007.0,Module 7,National Operator,2010.0,2164.0,2347.0,2623.0
+313,Zambia,Africa,1008.0,Module 8,National Operator,1000.0,1206.0,1373.0,1542.0
+314,Zambia,Africa,1009.0,Module 9,National Operator,1120.0,1196.0,1282.0,1390.0
+315,Zimbabwe,Africa,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+316,Zimbabwe,Africa,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+317,Zimbabwe,Africa,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+318,Zimbabwe,Africa,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+319,Zimbabwe,Africa,1005.0,Module 5,Directly Managed,6500.0,8321.0,9364.0,11140.0
+320,Zimbabwe,Africa,1006.0,Module 6,Directly Managed,1520.0,1624.0,1748.0,1934.0
+321,Zimbabwe,Africa,1007.0,Module 7,Directly Managed,1500.0,1653.0,1866.0,2110.0
+322,Zimbabwe,Africa,1008.0,Module 8,Directly Managed,1000.0,1206.0,1343.0,1512.0
+323,Zimbabwe,Africa,1009.0,Module 9,Directly Managed,1100.0,1206.0,1292.0,1390.0
+324,Argentina,Americas,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+325,Argentina,Americas,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+326,Argentina,Americas,1003.0,Module 3,HO Managed,1500.0,0.0,0.0,0.0
+327,Argentina,Americas,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+328,Argentina,Americas,1005.0,Module 5,HO Managed,6900.0,7218.0,7737.0,9106.0
+329,Argentina,Americas,1006.0,Module 6,HO Managed,1140.0,1343.0,1447.0,1652.0
+330,Argentina,Americas,1007.0,Module 7,HO Managed,1650.0,1923.0,2227.0,2442.0
+331,Argentina,Americas,1008.0,Module 8,HO Managed,1000.0,1206.0,1393.0,1522.0
+332,Argentina,Americas,1009.0,Module 9,HO Managed,1380.0,1457.0,1514.0,1593.0
+333,Bolivia,Americas,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+334,Bolivia,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+335,Bolivia,Americas,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+336,Bolivia,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+337,Bolivia,Americas,1005.0,Module 5,National Operator,2860.0,3368.0,3758.0,4936.0
+338,Bolivia,Americas,1006.0,Module 6,National Operator,1760.0,1885.0,1989.0,2156.0
+339,Bolivia,Americas,1007.0,Module 7,National Operator,2100.0,2314.0,2528.0,2683.0
+340,Bolivia,Americas,1008.0,Module 8,National Operator,1000.0,1206.0,1363.0,1572.0
+341,Bolivia,Americas,1009.0,Module 9,National Operator,1180.0,1246.0,1333.0,1441.0
+342,Brazil,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+343,Brazil,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+344,Brazil,Americas,1003.0,Module 3,National Operator,15000.0,15050.0,15095.0,15145.0
+345,Brazil,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+346,Brazil,Americas,1005.0,Module 5,National Operator,5220.0,6476.0,6732.0,7816.0
+347,Brazil,Americas,1006.0,Module 6,National Operator,1980.0,2185.0,2391.0,2599.0
+348,Brazil,Americas,1007.0,Module 7,National Operator,2190.0,2404.0,2558.0,2803.0
+349,Brazil,Americas,1008.0,Module 8,National Operator,1000.0,1186.0,1333.0,1542.0
+350,Brazil,Americas,1009.0,Module 9,National Operator,1290.0,1397.0,1464.0,1542.0
+351,Canada,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+352,Canada,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+353,Canada,Americas,1003.0,Module 3,National Operator,75000.0,75250.0,75475.0,75725.0
+354,Canada,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+355,Canada,Americas,1005.0,Module 5,National Operator,12340.0,14095.0,15815.0,15955.0
+356,Canada,Americas,1006.0,Module 6,National Operator,1620.0,1724.0,1869.0,2075.0
+357,Canada,Americas,1007.0,Module 7,National Operator,1650.0,1803.0,2016.0,2261.0
+358,Canada,Americas,1008.0,Module 8,National Operator,1000.0,1116.0,1302.0,1491.0
+359,Canada,Americas,1009.0,Module 9,National Operator,1350.0,1437.0,1524.0,1613.0
+360,Chile,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+361,Chile,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+362,Chile,Americas,1003.0,Module 3,National Operator,7500.0,7525.0,7548.0,7573.0
+363,Chile,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+364,Chile,Americas,1005.0,Module 5,National Operator,7080.0,8982.0,10007.0,10334.0
+365,Chile,Americas,1006.0,Module 6,National Operator,1880.0,1985.0,2190.0,2377.0
+366,Chile,Americas,1007.0,Module 7,National Operator,2220.0,2464.0,2618.0,2924.0
+367,Chile,Americas,1008.0,Module 8,National Operator,1000.0,1146.0,1252.0,1370.0
+368,Chile,Americas,1009.0,Module 9,National Operator,1220.0,1286.0,1343.0,1420.0
+369,Colombia,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+370,Colombia,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+371,Colombia,Americas,1003.0,Module 3,National Operator,15000.0,15050.0,15095.0,15145.0
+372,Colombia,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+373,Colombia,Americas,1005.0,Module 5,National Operator,16460.0,17544.0,19271.0,20165.0
+374,Colombia,Americas,1006.0,Module 6,National Operator,1480.0,1664.0,1788.0,1974.0
+375,Colombia,Americas,1007.0,Module 7,National Operator,1650.0,1953.0,2227.0,2532.0
+376,Colombia,Americas,1008.0,Module 8,National Operator,1000.0,1176.0,1343.0,1481.0
+377,Colombia,Americas,1009.0,Module 9,National Operator,1370.0,1477.0,1504.0,1613.0
+378,Dominican Republic,Americas,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+379,Dominican Republic,Americas,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+380,Dominican Republic,Americas,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+381,Dominican Republic,Americas,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+382,Dominican Republic,Americas,1005.0,Module 5,Directly Managed,14200.0,14556.0,15332.0,16640.0
+383,Dominican Republic,Americas,1006.0,Module 6,Directly Managed,1440.0,1604.0,1768.0,1934.0
+384,Dominican Republic,Americas,1007.0,Module 7,Directly Managed,1890.0,2104.0,2317.0,2532.0
+385,Dominican Republic,Americas,1008.0,Module 8,Directly Managed,1000.0,1106.0,1302.0,1471.0
+386,Dominican Republic,Americas,1009.0,Module 9,Directly Managed,1130.0,1216.0,1262.0,1349.0
+387,Ecuador,Americas,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+388,Ecuador,Americas,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+389,Ecuador,Americas,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+390,Ecuador,Americas,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+391,Ecuador,Americas,1005.0,Module 5,HO Managed,17020.0,17845.0,18708.0,19057.0
+392,Ecuador,Americas,1006.0,Module 6,HO Managed,1340.0,1544.0,1648.0,1813.0
+393,Ecuador,Americas,1007.0,Module 7,HO Managed,1620.0,1863.0,2167.0,2442.0
+394,Ecuador,Americas,1008.0,Module 8,HO Managed,1000.0,1116.0,1292.0,1471.0
+395,Ecuador,Americas,1009.0,Module 9,HO Managed,1070.0,1146.0,1201.0,1309.0
+396,Guatemala,Americas,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+397,Guatemala,Americas,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+398,Guatemala,Americas,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+399,Guatemala,Americas,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+400,Guatemala,Americas,1005.0,Module 5,Directly Managed,9320.0,10366.0,12238.0,12550.0
+401,Guatemala,Americas,1006.0,Module 6,Directly Managed,1520.0,1724.0,1909.0,2075.0
+402,Guatemala,Americas,1007.0,Module 7,Directly Managed,1560.0,1833.0,2016.0,2201.0
+403,Guatemala,Americas,1008.0,Module 8,Directly Managed,1000.0,1106.0,1262.0,1390.0
+404,Guatemala,Americas,1009.0,Module 9,Directly Managed,1020.0,1095.0,1181.0,1268.0
+405,Mexico,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+406,Mexico,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+407,Mexico,Americas,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+408,Mexico,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+409,Mexico,Americas,1005.0,Module 5,National Operator,3080.0,3268.0,3778.0,3948.0
+410,Mexico,Americas,1006.0,Module 6,National Operator,1020.0,1203.0,1387.0,1571.0
+411,Mexico,Americas,1007.0,Module 7,National Operator,2250.0,2434.0,2678.0,2924.0
+412,Mexico,Americas,1008.0,Module 8,National Operator,1000.0,1196.0,1322.0,1451.0
+413,Mexico,Americas,1009.0,Module 9,National Operator,1270.0,1377.0,1403.0,1461.0
+414,Panama,Americas,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+415,Panama,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+416,Panama,Americas,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+417,Panama,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+418,Panama,Americas,1005.0,Module 5,National Operator,7440.0,7459.0,7556.0,9206.0
+419,Panama,Americas,1006.0,Module 6,National Operator,1700.0,1825.0,2010.0,2115.0
+420,Panama,Americas,1007.0,Module 7,National Operator,1980.0,2164.0,2408.0,2713.0
+421,Panama,Americas,1008.0,Module 8,National Operator,1000.0,1126.0,1302.0,1430.0
+422,Panama,Americas,1009.0,Module 9,National Operator,1380.0,1447.0,1555.0,1664.0
+423,Peru,Americas,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+424,Peru,Americas,1002.0,Module 2,HO Managed,5000.0,5250.0,5250.0,5375.0
+425,Peru,Americas,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+426,Peru,Americas,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+427,Peru,Americas,1005.0,Module 5,HO Managed,15940.0,16802.0,18528.0,20346.0
+428,Peru,Americas,1006.0,Module 6,HO Managed,1180.0,1303.0,1487.0,1632.0
+429,Peru,Americas,1007.0,Module 7,HO Managed,1920.0,2134.0,2287.0,2562.0
+430,Peru,Americas,1008.0,Module 8,HO Managed,1000.0,1106.0,1211.0,1390.0
+431,Peru,Americas,1009.0,Module 9,HO Managed,1140.0,1206.0,1292.0,1390.0
+432,Puerto Rico,Americas,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+433,Puerto Rico,Americas,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+434,Puerto Rico,Americas,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+435,Puerto Rico,Americas,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+436,Puerto Rico,Americas,1005.0,Module 5,Directly Managed,3680.0,4090.0,4943.0,6205.0
+437,Puerto Rico,Americas,1006.0,Module 6,Directly Managed,1960.0,2125.0,2331.0,2498.0
+438,Puerto Rico,Americas,1007.0,Module 7,Directly Managed,1680.0,1863.0,2167.0,2321.0
+439,Puerto Rico,Americas,1008.0,Module 8,Directly Managed,1000.0,1206.0,1312.0,1501.0
+440,Puerto Rico,Americas,1009.0,Module 9,Directly Managed,1000.0,1065.0,1151.0,1207.0
+441,Paraguay,Americas,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+442,Paraguay,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+443,Paraguay,Americas,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+444,Paraguay,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+445,Paraguay,Americas,1005.0,Module 5,National Operator,12640.0,13033.0,13926.0,14585.0
+446,Paraguay,Americas,1006.0,Module 6,National Operator,1100.0,1243.0,1387.0,1551.0
+447,Paraguay,Americas,1007.0,Module 7,National Operator,1890.0,2104.0,2378.0,2683.0
+448,Paraguay,Americas,1008.0,Module 8,National Operator,1000.0,1156.0,1353.0,1522.0
+449,Paraguay,Americas,1009.0,Module 9,National Operator,1100.0,1196.0,1282.0,1390.0
+450,Trinidad and Tobago,Americas,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+451,Trinidad and Tobago,Americas,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+452,Trinidad and Tobago,Americas,1003.0,Module 3,Directly Managed,750.0,753.0,755.0,757.0
+453,Trinidad and Tobago,Americas,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+454,Trinidad and Tobago,Americas,1005.0,Module 5,Directly Managed,15440.0,15599.0,15694.0,17566.0
+455,Trinidad and Tobago,Americas,1006.0,Module 6,Directly Managed,1560.0,1764.0,1889.0,2035.0
+456,Trinidad and Tobago,Americas,1007.0,Module 7,Directly Managed,1740.0,1983.0,2167.0,2472.0
+457,Trinidad and Tobago,Americas,1008.0,Module 8,Directly Managed,1000.0,1106.0,1252.0,1380.0
+458,Trinidad and Tobago,Americas,1009.0,Module 9,Directly Managed,1210.0,1296.0,1383.0,1481.0
+459,Uruguay,Americas,1001.0,Module 1,Directly Managed,7500.0,7500.0,7500.0,17500.0
+460,Uruguay,Americas,1002.0,Module 2,Directly Managed,5000.0,5250.0,5250.0,5375.0
+461,Uruguay,Americas,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+462,Uruguay,Americas,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+463,Uruguay,Americas,1005.0,Module 5,Directly Managed,14220.0,15479.0,15996.0,16136.0
+464,Uruguay,Americas,1006.0,Module 6,Directly Managed,1160.0,1343.0,1487.0,1591.0
+465,Uruguay,Americas,1007.0,Module 7,Directly Managed,1860.0,2104.0,2287.0,2442.0
+466,Uruguay,Americas,1008.0,Module 8,Directly Managed,1000.0,1116.0,1292.0,1441.0
+467,Uruguay,Americas,1009.0,Module 9,Directly Managed,1250.0,1327.0,1403.0,1461.0
+468,United States,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+469,United States,Americas,1002.0,Module 2,National Operator,240000.0,250000.0,250000.0,255000.0
+470,United States,Americas,1003.0,Module 3,National Operator,300000.0,301000.0,339638.0,348335.0
+471,United States,Americas,1004.0,Module 4,National Operator,20000.0,20000.0,20000.0,20500.0
+472,United States,Americas,1005.0,Module 5,National Operator,76780.0,77834.0,78993.0,80358.0
+473,United States,Americas,1006.0,Module 6,National Operator,147560.0,148089.0,148582.0,149053.0
+474,United States,Americas,1007.0,Module 7,National Operator,5430.0,5740.0,5989.0,6300.0
+475,United States,Americas,1008.0,Module 8,National Operator,1000.0,1106.0,1221.0,1430.0
+476,United States,Americas,1009.0,Module 9,National Operator,1480.0,1548.0,1645.0,1715.0
+477,Venezuela,Americas,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+478,Venezuela,Americas,1002.0,Module 2,National Operator,5000.0,5250.0,5250.0,5375.0
+479,Venezuela,Americas,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+480,Venezuela,Americas,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+481,Venezuela,Americas,1005.0,Module 5,National Operator,6920.0,7860.0,8078.0,9529.0
+482,Venezuela,Americas,1006.0,Module 6,National Operator,1940.0,2145.0,2331.0,2498.0
+483,Venezuela,Americas,1007.0,Module 7,National Operator,1680.0,1983.0,2167.0,2472.0
+484,Venezuela,Americas,1008.0,Module 8,National Operator,1000.0,1166.0,1363.0,1491.0
+485,Venezuela,Americas,1009.0,Module 9,National Operator,1430.0,1497.0,1605.0,1674.0
+486,Afghanistan,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+487,Afghanistan,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+488,Afghanistan,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+489,Afghanistan,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+490,Afghanistan,Asia,1005.0,Module 5,National Operator,8680.0,9403.0,10590.0,10999.0
+491,Afghanistan,Asia,1006.0,Module 6,National Operator,1140.0,1343.0,1487.0,1652.0
+492,Afghanistan,Asia,1007.0,Module 7,National Operator,2190.0,2464.0,2769.0,2924.0
+493,Afghanistan,Asia,1008.0,Module 8,National Operator,1000.0,1176.0,1353.0,1512.0
+494,Afghanistan,Asia,1009.0,Module 9,National Operator,1150.0,1246.0,1292.0,1380.0
+495,Bahrain,Asia,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+496,Bahrain,Asia,1002.0,Module 2,HO Managed,5500.0,5750.0,5750.0,5875.0
+497,Bahrain,Asia,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+498,Bahrain,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+499,Bahrain,Asia,1005.0,Module 5,HO Managed,13520.0,14877.0,16659.0,18533.0
+500,Bahrain,Asia,1006.0,Module 6,HO Managed,1660.0,1764.0,1969.0,2095.0
+501,Bahrain,Asia,1007.0,Module 7,HO Managed,1860.0,2013.0,2197.0,2381.0
+502,Bahrain,Asia,1008.0,Module 8,HO Managed,1000.0,1176.0,1353.0,1491.0
+503,Bahrain,Asia,1009.0,Module 9,HO Managed,1090.0,1156.0,1262.0,1339.0
+504,China,Asia,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+505,China,Asia,1002.0,Module 2,HO Managed,110000.0,115000.0,115000.0,117500.0
+506,China,Asia,1003.0,Module 3,HO Managed,70000.0,168600.0,211425.0,270000.0
+507,China,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+508,China,Asia,1005.0,Module 5,HO Managed,8020.0,9724.0,11575.0,13417.0
+509,China,Asia,1006.0,Module 6,HO Managed,102840.0,103278.0,103630.0,104069.0
+510,China,Asia,1007.0,Module 7,HO Managed,18840.0,19172.0,19471.0,19745.0
+511,China,Asia,1008.0,Module 8,HO Managed,1000.0,1156.0,1363.0,1542.0
+512,China,Asia,1009.0,Module 9,HO Managed,1440.0,1518.0,1565.0,1623.0
+513,Indonesia,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+514,Indonesia,Asia,1002.0,Module 2,National Operator,11000.0,11500.0,11500.0,11750.0
+515,Indonesia,Asia,1003.0,Module 3,National Operator,7500.0,7525.0,7548.0,7573.0
+516,Indonesia,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+517,Indonesia,Asia,1005.0,Module 5,National Operator,14340.0,15980.0,18025.0,19339.0
+518,Indonesia,Asia,1006.0,Module 6,National Operator,1840.0,1945.0,2050.0,2176.0
+519,Indonesia,Asia,1007.0,Module 7,National Operator,1560.0,1833.0,1986.0,2261.0
+520,Indonesia,Asia,1008.0,Module 8,National Operator,1000.0,1136.0,1262.0,1420.0
+521,Indonesia,Asia,1009.0,Module 9,National Operator,1050.0,1146.0,1171.0,1228.0
+522,India,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+523,India,Asia,1002.0,Module 2,National Operator,55000.0,57500.0,57500.0,58750.0
+524,India,Asia,1003.0,Module 3,National Operator,15000.0,15050.0,15095.0,15145.0
+525,India,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+526,India,Asia,1005.0,Module 5,National Operator,10080.0,11689.0,12298.0,13658.0
+527,India,Asia,1006.0,Module 6,National Operator,15460.0,15679.0,15815.0,15975.0
+528,India,Asia,1007.0,Module 7,National Operator,1980.0,2284.0,2498.0,2803.0
+529,India,Asia,1008.0,Module 8,National Operator,1000.0,1196.0,1353.0,1471.0
+530,India,Asia,1009.0,Module 9,National Operator,1000.0,1075.0,1151.0,1228.0
+531,Israel,Asia,1001.0,Module 1,National Operator,30000.0,30000.0,35000.0,80000.0
+532,Israel,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+533,Israel,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+534,Israel,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+535,Israel,Asia,1005.0,Module 5,National Operator,16900.0,18266.0,18347.0,19843.0
+536,Israel,Asia,1006.0,Module 6,National Operator,1200.0,1363.0,1507.0,1612.0
+537,Israel,Asia,1007.0,Module 7,National Operator,2250.0,2494.0,2799.0,2954.0
+538,Israel,Asia,1008.0,Module 8,National Operator,1000.0,1176.0,1353.0,1562.0
+539,Israel,Asia,1009.0,Module 9,National Operator,1410.0,1487.0,1575.0,1664.0
+540,Jordan,Asia,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+541,Jordan,Asia,1002.0,Module 2,HO Managed,5500.0,5750.0,5750.0,5875.0
+542,Jordan,Asia,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+543,Jordan,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+544,Jordan,Asia,1005.0,Module 5,HO Managed,5080.0,5193.0,5365.0,7031.0
+545,Jordan,Asia,1006.0,Module 6,HO Managed,1120.0,1283.0,1427.0,1531.0
+546,Jordan,Asia,1007.0,Module 7,HO Managed,1650.0,1923.0,2227.0,2381.0
+547,Jordan,Asia,1008.0,Module 8,HO Managed,1000.0,1146.0,1353.0,1461.0
+548,Jordan,Asia,1009.0,Module 9,HO Managed,1150.0,1246.0,1312.0,1370.0
+549,Japan,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+550,Japan,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+551,Japan,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+552,Japan,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+553,Japan,Asia,1005.0,Module 5,National Operator,16580.0,18165.0,20095.0,21535.0
+554,Japan,Asia,1006.0,Module 6,National Operator,1840.0,2045.0,2170.0,2357.0
+555,Japan,Asia,1007.0,Module 7,National Operator,1890.0,2164.0,2408.0,2623.0
+556,Japan,Asia,1008.0,Module 8,National Operator,1000.0,1166.0,1353.0,1461.0
+557,Japan,Asia,1009.0,Module 9,National Operator,1000.0,1085.0,1131.0,1217.0
+558,Kuwait,Asia,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+559,Kuwait,Asia,1002.0,Module 2,HO Managed,5500.0,5750.0,5750.0,5875.0
+560,Kuwait,Asia,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+561,Kuwait,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+562,Kuwait,Asia,1005.0,Module 5,HO Managed,7220.0,7840.0,9043.0,9206.0
+563,Kuwait,Asia,1006.0,Module 6,HO Managed,1900.0,2085.0,2291.0,2478.0
+564,Kuwait,Asia,1007.0,Module 7,HO Managed,1950.0,2104.0,2347.0,2592.0
+565,Kuwait,Asia,1008.0,Module 8,HO Managed,1000.0,1176.0,1363.0,1481.0
+566,Kuwait,Asia,1009.0,Module 9,HO Managed,1050.0,1116.0,1211.0,1309.0
+567,Lebannon,Asia,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+568,Lebannon,Asia,1002.0,Module 2,HO Managed,5500.0,5750.0,5750.0,5875.0
+569,Lebannon,Asia,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+570,Lebannon,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+571,Lebannon,Asia,1005.0,Module 5,HO Managed,7920.0,9804.0,10590.0,11221.0
+572,Lebannon,Asia,1006.0,Module 6,HO Managed,1700.0,1905.0,2010.0,2216.0
+573,Lebannon,Asia,1007.0,Module 7,HO Managed,1650.0,1833.0,1986.0,2291.0
+574,Lebannon,Asia,1008.0,Module 8,HO Managed,1000.0,1106.0,1221.0,1430.0
+575,Lebannon,Asia,1009.0,Module 9,HO Managed,1410.0,1497.0,1605.0,1715.0
+576,Sri Lanka,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+577,Sri Lanka,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+578,Sri Lanka,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+579,Sri Lanka,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+580,Sri Lanka,Asia,1005.0,Module 5,National Operator,2800.0,3950.0,4521.0,6426.0
+581,Sri Lanka,Asia,1006.0,Module 6,National Operator,1460.0,1644.0,1768.0,1934.0
+582,Sri Lanka,Asia,1007.0,Module 7,National Operator,2130.0,2404.0,2678.0,2834.0
+583,Sri Lanka,Asia,1008.0,Module 8,National Operator,1000.0,1116.0,1252.0,1430.0
+584,Sri Lanka,Asia,1009.0,Module 9,National Operator,1260.0,1367.0,1393.0,1491.0
+585,Myanmar,Asia,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+586,Myanmar,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+587,Myanmar,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+588,Myanmar,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+589,Myanmar,Asia,1005.0,Module 5,National Operator,18980.0,19890.0,20899.0,22421.0
+590,Myanmar,Asia,1006.0,Module 6,National Operator,3920.0,4110.0,4320.0,4472.0
+591,Myanmar,Asia,1007.0,Module 7,National Operator,2070.0,2374.0,2558.0,2773.0
+592,Myanmar,Asia,1008.0,Module 8,National Operator,1000.0,1136.0,1292.0,1420.0
+593,Myanmar,Asia,1009.0,Module 9,National Operator,1380.0,1477.0,1534.0,1593.0
+594,Malaysia,Asia,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+595,Malaysia,Asia,1002.0,Module 2,HO Managed,5500.0,5750.0,5750.0,5875.0
+596,Malaysia,Asia,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+597,Malaysia,Asia,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+598,Malaysia,Asia,1005.0,Module 5,HO Managed,12560.0,13674.0,15232.0,17002.0
+599,Malaysia,Asia,1006.0,Module 6,HO Managed,1240.0,1444.0,1547.0,1692.0
+600,Malaysia,Asia,1007.0,Module 7,HO Managed,1590.0,1773.0,1986.0,2140.0
+601,Malaysia,Asia,1008.0,Module 8,HO Managed,1000.0,1116.0,1282.0,1441.0
+602,Malaysia,Asia,1009.0,Module 9,HO Managed,1450.0,1528.0,1615.0,1684.0
+603,Pakistan,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+604,Pakistan,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+605,Pakistan,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+606,Pakistan,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+607,Pakistan,Asia,1005.0,Module 5,National Operator,5600.0,6456.0,7214.0,8662.0
+608,Pakistan,Asia,1006.0,Module 6,National Operator,1180.0,1303.0,1407.0,1531.0
+609,Pakistan,Asia,1007.0,Module 7,National Operator,1740.0,1983.0,2167.0,2321.0
+610,Pakistan,Asia,1008.0,Module 8,National Operator,1000.0,1136.0,1242.0,1370.0
+611,Pakistan,Asia,1009.0,Module 9,National Operator,1190.0,1276.0,1363.0,1461.0
+612,Philippines,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+613,Philippines,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+614,Philippines,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+615,Philippines,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+616,Philippines,Asia,1005.0,Module 5,National Operator,14380.0,15759.0,16679.0,18594.0
+617,Philippines,Asia,1006.0,Module 6,National Operator,1720.0,1925.0,2070.0,2176.0
+618,Philippines,Asia,1007.0,Module 7,National Operator,2220.0,2374.0,2648.0,2954.0
+619,Philippines,Asia,1008.0,Module 8,National Operator,1000.0,1106.0,1312.0,1441.0
+620,Philippines,Asia,1009.0,Module 9,National Operator,1150.0,1256.0,1292.0,1390.0
+621,Saudi Arabia,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+622,Saudi Arabia,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+623,Saudi Arabia,Asia,1003.0,Module 3,National Operator,7500.0,7525.0,7548.0,7573.0
+624,Saudi Arabia,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+625,Saudi Arabia,Asia,1005.0,Module 5,National Operator,4220.0,4451.0,6049.0,6164.0
+626,Saudi Arabia,Asia,1006.0,Module 6,National Operator,1120.0,1303.0,1467.0,1632.0
+627,Saudi Arabia,Asia,1007.0,Module 7,National Operator,2070.0,2314.0,2588.0,2803.0
+628,Saudi Arabia,Asia,1008.0,Module 8,National Operator,1000.0,1116.0,1302.0,1471.0
+629,Saudi Arabia,Asia,1009.0,Module 9,National Operator,1500.0,1598.0,1635.0,1735.0
+630,Singapore,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+631,Singapore,Asia,1002.0,Module 2,National Operator,11000.0,11500.0,11500.0,11750.0
+632,Singapore,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+633,Singapore,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+634,Singapore,Asia,1005.0,Module 5,National Operator,5660.0,5794.0,5968.0,6809.0
+635,Singapore,Asia,1006.0,Module 6,National Operator,22000.0,22175.0,22426.0,22683.0
+636,Singapore,Asia,1007.0,Module 7,National Operator,1980.0,2254.0,2438.0,2713.0
+637,Singapore,Asia,1008.0,Module 8,National Operator,15000.0,15226.0,15445.0,15694.0
+638,Singapore,Asia,1009.0,Module 9,National Operator,1430.0,1508.0,1555.0,1643.0
+639,Thailand,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+640,Thailand,Asia,1002.0,Module 2,National Operator,11000.0,11500.0,11500.0,11750.0
+641,Thailand,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+642,Thailand,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+643,Thailand,Asia,1005.0,Module 5,National Operator,11900.0,13353.0,13524.0,13840.0
+644,Thailand,Asia,1006.0,Module 6,National Operator,1120.0,1303.0,1447.0,1591.0
+645,Thailand,Asia,1007.0,Module 7,National Operator,1800.0,2104.0,2347.0,2532.0
+646,Thailand,Asia,1008.0,Module 8,National Operator,1000.0,1176.0,1373.0,1481.0
+647,Thailand,Asia,1009.0,Module 9,National Operator,1040.0,1146.0,1221.0,1309.0
+648,Taiwan,Asia,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+649,Taiwan,Asia,1002.0,Module 2,National Operator,11000.0,11500.0,11500.0,11750.0
+650,Taiwan,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+651,Taiwan,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+652,Taiwan,Asia,1005.0,Module 5,National Operator,17120.0,18787.0,20316.0,21958.0
+653,Taiwan,Asia,1006.0,Module 6,National Operator,1560.0,1764.0,1909.0,2075.0
+654,Taiwan,Asia,1007.0,Module 7,National Operator,1650.0,1923.0,2107.0,2412.0
+655,Taiwan,Asia,1008.0,Module 8,National Operator,1000.0,1206.0,1353.0,1562.0
+656,Taiwan,Asia,1009.0,Module 9,National Operator,1370.0,1427.0,1484.0,1552.0
+657,Vietnam,Asia,1001.0,Module 1,National Operator,20000.0,30000.0,30000.0,32000.0
+658,Vietnam,Asia,1002.0,Module 2,National Operator,5500.0,5750.0,5750.0,5875.0
+659,Vietnam,Asia,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+660,Vietnam,Asia,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+661,Vietnam,Asia,1005.0,Module 5,National Operator,19140.0,20210.0,20276.0,21736.0
+662,Vietnam,Asia,1006.0,Module 6,National Operator,1240.0,1444.0,1547.0,1672.0
+663,Vietnam,Asia,1007.0,Module 7,National Operator,2130.0,2344.0,2588.0,2803.0
+664,Vietnam,Asia,1008.0,Module 8,National Operator,1000.0,1206.0,1333.0,1542.0
+665,Vietnam,Asia,1009.0,Module 9,National Operator,1220.0,1307.0,1363.0,1430.0
+666,Austria,Europe,1001.0,Module 1,Directly Managed,55000.0,60000.0,70000.0,80000.0
+667,Austria,Europe,1002.0,Module 2,Directly Managed,60000.0,62500.0,62500.0,63750.0
+668,Austria,Europe,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+669,Austria,Europe,1004.0,Module 4,Directly Managed,20000.0,20000.0,20000.0,20500.0
+670,Austria,Europe,1005.0,Module 5,Directly Managed,14700.0,15779.0,16659.0,18695.0
+671,Austria,Europe,1006.0,Module 6,Directly Managed,1800.0,1985.0,2110.0,2317.0
+672,Austria,Europe,1007.0,Module 7,Directly Managed,1830.0,2013.0,2167.0,2442.0
+673,Austria,Europe,1008.0,Module 8,Directly Managed,1000.0,1146.0,1282.0,1491.0
+674,Austria,Europe,1009.0,Module 9,Directly Managed,1260.0,1357.0,1454.0,1542.0
+675,Belgium,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+676,Belgium,Europe,1002.0,Module 2,National Operator,72000.0,75000.0,75000.0,76500.0
+677,Belgium,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+678,Belgium,Europe,1004.0,Module 4,National Operator,20000.0,20000.0,20000.0,20500.0
+679,Belgium,Europe,1005.0,Module 5,National Operator,9420.0,10847.0,10972.0,11261.0
+680,Belgium,Europe,1006.0,Module 6,National Operator,1140.0,1243.0,1366.0,1511.0
+681,Belgium,Europe,1007.0,Module 7,National Operator,1950.0,2134.0,2408.0,2562.0
+682,Belgium,Europe,1008.0,Module 8,National Operator,1000.0,1166.0,1373.0,1491.0
+683,Belgium,Europe,1009.0,Module 9,National Operator,1090.0,1156.0,1181.0,1278.0
+684,Bulgaria,Europe,1001.0,Module 1,HO Managed,7500.0,15000.0,15000.0,26250.0
+685,Bulgaria,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+686,Bulgaria,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+687,Bulgaria,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+688,Bulgaria,Europe,1005.0,Module 5,HO Managed,7720.0,9664.0,10851.0,11140.0
+689,Bulgaria,Europe,1006.0,Module 6,HO Managed,1980.0,2105.0,2251.0,2357.0
+690,Bulgaria,Europe,1007.0,Module 7,HO Managed,1680.0,1863.0,2137.0,2321.0
+691,Bulgaria,Europe,1008.0,Module 8,HO Managed,1000.0,1186.0,1373.0,1491.0
+692,Bulgaria,Europe,1009.0,Module 9,HO Managed,1380.0,1437.0,1524.0,1593.0
+693,Bosnia and Herzegovina,Europe,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+694,Bosnia and Herzegovina,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+695,Bosnia and Herzegovina,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+696,Bosnia and Herzegovina,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+697,Bosnia and Herzegovina,Europe,1005.0,Module 5,HO Managed,2080.0,2807.0,3999.0,4130.0
+698,Bosnia and Herzegovina,Europe,1006.0,Module 6,HO Managed,1260.0,1464.0,1588.0,1773.0
+699,Bosnia and Herzegovina,Europe,1007.0,Module 7,HO Managed,2070.0,2284.0,2438.0,2713.0
+700,Bosnia and Herzegovina,Europe,1008.0,Module 8,HO Managed,1000.0,1206.0,1322.0,1532.0
+701,Bosnia and Herzegovina,Europe,1009.0,Module 9,HO Managed,1490.0,1558.0,1645.0,1735.0
+702,Switzerland,Europe,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+703,Switzerland,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+704,Switzerland,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+705,Switzerland,Europe,1004.0,Module 4,HO Managed,40000.0,40000.0,40000.0,41000.0
+706,Switzerland,Europe,1005.0,Module 5,HO Managed,11700.0,13574.0,13665.0,14021.0
+707,Switzerland,Europe,1006.0,Module 6,HO Managed,1240.0,1343.0,1507.0,1652.0
+708,Switzerland,Europe,1007.0,Module 7,HO Managed,1800.0,1953.0,2197.0,2502.0
+709,Switzerland,Europe,1008.0,Module 8,HO Managed,1000.0,1126.0,1242.0,1441.0
+710,Switzerland,Europe,1009.0,Module 9,HO Managed,1050.0,1116.0,1211.0,1268.0
+711,Czech Republic,Europe,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+712,Czech Republic,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+713,Czech Republic,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+714,Czech Republic,Europe,1004.0,Module 4,HO Managed,20000.0,20000.0,20000.0,20500.0
+715,Czech Republic,Europe,1005.0,Module 5,HO Managed,6740.0,8722.0,8741.0,10294.0
+716,Czech Republic,Europe,1006.0,Module 6,HO Managed,1080.0,1263.0,1467.0,1612.0
+717,Czech Republic,Europe,1007.0,Module 7,HO Managed,2220.0,2464.0,2739.0,2954.0
+718,Czech Republic,Europe,1008.0,Module 8,HO Managed,1000.0,1176.0,1302.0,1441.0
+719,Czech Republic,Europe,1009.0,Module 9,HO Managed,1200.0,1266.0,1302.0,1380.0
+720,Germany,Europe,1001.0,Module 1,Directly Managed,55000.0,60000.0,70000.0,80000.0
+721,Germany,Europe,1002.0,Module 2,Directly Managed,360000.0,375000.0,375000.0,382500.0
+722,Germany,Europe,1003.0,Module 3,Directly Managed,75000.0,75250.0,75475.0,75725.0
+723,Germany,Europe,1004.0,Module 4,Directly Managed,300000.0,300000.0,300000.0,307500.0
+724,Germany,Europe,1005.0,Module 5,Directly Managed,6980.0,8241.0,8400.0,10435.0
+725,Germany,Europe,1006.0,Module 6,Directly Managed,1920.0,2045.0,2210.0,2337.0
+726,Germany,Europe,1007.0,Module 7,Directly Managed,21750.0,22057.0,22270.0,22548.0
+727,Germany,Europe,1008.0,Module 8,Directly Managed,1000.0,1176.0,1292.0,1471.0
+728,Germany,Europe,1009.0,Module 9,Directly Managed,1380.0,1487.0,1545.0,1643.0
+729,Denmark,Europe,1001.0,Module 1,Directly Managed,15000.0,30000.0,22500.0,15000.0
+730,Denmark,Europe,1002.0,Module 2,Directly Managed,6000.0,6250.0,6250.0,6375.0
+731,Denmark,Europe,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+732,Denmark,Europe,1004.0,Module 4,Directly Managed,0.0,0.0,0.0,0.0
+733,Denmark,Europe,1005.0,Module 5,Directly Managed,3580.0,5494.0,7053.0,8098.0
+734,Denmark,Europe,1006.0,Module 6,Directly Managed,1680.0,1885.0,2030.0,2135.0
+735,Denmark,Europe,1007.0,Module 7,Directly Managed,1890.0,2194.0,2468.0,2683.0
+736,Denmark,Europe,1008.0,Module 8,Directly Managed,1000.0,1126.0,1292.0,1451.0
+737,Denmark,Europe,1009.0,Module 9,Directly Managed,1460.0,1518.0,1545.0,1613.0
+738,Spain,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+739,Spain,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+740,Spain,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+741,Spain,Europe,1004.0,Module 4,National Operator,40000.0,40000.0,40000.0,41000.0
+742,Spain,Europe,1005.0,Module 5,National Operator,13440.0,14997.0,15071.0,15109.0
+743,Spain,Europe,1006.0,Module 6,National Operator,1060.0,1263.0,1427.0,1531.0
+744,Spain,Europe,1007.0,Module 7,National Operator,4140.0,4417.0,4574.0,4793.0
+745,Spain,Europe,1008.0,Module 8,National Operator,1000.0,1136.0,1302.0,1512.0
+746,Spain,Europe,1009.0,Module 9,National Operator,1400.0,1497.0,1585.0,1694.0
+747,Finland,Europe,1001.0,Module 1,HO Managed,15000.0,30000.0,22500.0,15000.0
+748,Finland,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+749,Finland,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+750,Finland,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+751,Finland,Europe,1005.0,Module 5,HO Managed,10420.0,11509.0,12278.0,13074.0
+752,Finland,Europe,1006.0,Module 6,HO Managed,1820.0,1985.0,2150.0,2317.0
+753,Finland,Europe,1007.0,Module 7,HO Managed,1650.0,1863.0,2107.0,2261.0
+754,Finland,Europe,1008.0,Module 8,HO Managed,1000.0,1156.0,1292.0,1410.0
+755,Finland,Europe,1009.0,Module 9,HO Managed,1470.0,1528.0,1565.0,1643.0
+756,France,Europe,1001.0,Module 1,Directly Managed,55000.0,60000.0,70000.0,80000.0
+757,France,Europe,1002.0,Module 2,Directly Managed,240000.0,250000.0,250000.0,255000.0
+758,France,Europe,1003.0,Module 3,Directly Managed,1500.0,1505.0,1510.0,1515.0
+759,France,Europe,1004.0,Module 4,Directly Managed,180000.0,180000.0,180000.0,184500.0
+760,France,Europe,1005.0,Module 5,Directly Managed,15420.0,16982.0,18447.0,18493.0
+761,France,Europe,1006.0,Module 6,Directly Managed,1840.0,1945.0,2070.0,2276.0
+762,France,Europe,1007.0,Module 7,Directly Managed,1710.0,1953.0,2107.0,2351.0
+763,France,Europe,1008.0,Module 8,Directly Managed,1000.0,1136.0,1262.0,1420.0
+764,France,Europe,1009.0,Module 9,Directly Managed,1020.0,1106.0,1141.0,1228.0
+765,United Kingdom,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+766,United Kingdom,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+767,United Kingdom,Europe,1003.0,Module 3,National Operator,150000.0,150500.0,196235.0,204458.0
+768,United Kingdom,Europe,1004.0,Module 4,National Operator,20000.0,20000.0,20000.0,20500.0
+769,United Kingdom,Europe,1005.0,Module 5,National Operator,32440.0,32702.0,33418.0,33844.0
+770,United Kingdom,Europe,1006.0,Module 6,National Operator,49880.0,50105.0,50378.0,50604.0
+771,United Kingdom,Europe,1007.0,Module 7,National Operator,27690.0,27947.0,28169.0,28457.0
+772,United Kingdom,Europe,1008.0,Module 8,National Operator,1000.0,1116.0,1232.0,1390.0
+773,United Kingdom,Europe,1009.0,Module 9,National Operator,1380.0,1487.0,1575.0,1674.0
+774,Greece,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+775,Greece,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+776,Greece,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+777,Greece,Europe,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+778,Greece,Europe,1005.0,Module 5,National Operator,7720.0,7880.0,9284.0,10677.0
+779,Greece,Europe,1006.0,Module 6,National Operator,1060.0,1243.0,1427.0,1612.0
+780,Greece,Europe,1007.0,Module 7,National Operator,1800.0,2013.0,2257.0,2412.0
+781,Greece,Europe,1008.0,Module 8,National Operator,1000.0,1186.0,1312.0,1512.0
+782,Greece,Europe,1009.0,Module 9,National Operator,1240.0,1296.0,1363.0,1461.0
+783,Croatia,Europe,1001.0,Module 1,HO Managed,7500.0,7500.0,7500.0,17500.0
+784,Croatia,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+785,Croatia,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+786,Croatia,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+787,Croatia,Europe,1005.0,Module 5,HO Managed,11720.0,12070.0,12941.0,14222.0
+788,Croatia,Europe,1006.0,Module 6,HO Managed,1600.0,1724.0,1909.0,2015.0
+789,Croatia,Europe,1007.0,Module 7,HO Managed,2130.0,2434.0,2739.0,2984.0
+790,Croatia,Europe,1008.0,Module 8,HO Managed,1000.0,1136.0,1322.0,1430.0
+791,Croatia,Europe,1009.0,Module 9,HO Managed,1020.0,1095.0,1181.0,1278.0
+792,Hungary,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+793,Hungary,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+794,Hungary,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+795,Hungary,Europe,1004.0,Module 4,National Operator,20000.0,20000.0,20000.0,20500.0
+796,Hungary,Europe,1005.0,Module 5,National Operator,13060.0,15038.0,15976.0,17929.0
+797,Hungary,Europe,1006.0,Module 6,National Operator,1660.0,1845.0,2050.0,2176.0
+798,Hungary,Europe,1007.0,Module 7,National Operator,2250.0,2524.0,2769.0,2924.0
+799,Hungary,Europe,1008.0,Module 8,National Operator,1000.0,1126.0,1262.0,1380.0
+800,Hungary,Europe,1009.0,Module 9,National Operator,1400.0,1457.0,1504.0,1583.0
+801,Ireland,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+802,Ireland,Europe,1002.0,Module 2,National Operator,12000.0,12500.0,12500.0,12750.0
+803,Ireland,Europe,1003.0,Module 3,National Operator,15000.0,15050.0,15095.0,15145.0
+804,Ireland,Europe,1004.0,Module 4,National Operator,20000.0,20000.0,20000.0,20500.0
+805,Ireland,Europe,1005.0,Module 5,National Operator,2620.0,3409.0,4963.0,6990.0
+806,Ireland,Europe,1006.0,Module 6,National Operator,1600.0,1724.0,1889.0,2015.0
+807,Ireland,Europe,1007.0,Module 7,National Operator,1950.0,2224.0,2468.0,2623.0
+808,Ireland,Europe,1008.0,Module 8,National Operator,1000.0,1106.0,1302.0,1420.0
+809,Ireland,Europe,1009.0,Module 9,National Operator,1230.0,1327.0,1413.0,1512.0
+810,Italy,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+811,Italy,Europe,1002.0,Module 2,National Operator,240000.0,250000.0,250000.0,255000.0
+812,Italy,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+813,Italy,Europe,1004.0,Module 4,National Operator,200000.0,200000.0,200000.0,205000.0
+814,Italy,Europe,1005.0,Module 5,National Operator,6520.0,8361.0,10369.0,10878.0
+815,Italy,Europe,1006.0,Module 6,National Operator,1020.0,1223.0,1387.0,1591.0
+816,Italy,Europe,1007.0,Module 7,National Operator,2130.0,2344.0,2528.0,2773.0
+817,Italy,Europe,1008.0,Module 8,National Operator,1000.0,1176.0,1373.0,1583.0
+818,Italy,Europe,1009.0,Module 9,National Operator,1230.0,1296.0,1322.0,1410.0
+819,Netherlands,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+820,Netherlands,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+821,Netherlands,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+822,Netherlands,Europe,1004.0,Module 4,National Operator,100000.0,100000.0,100000.0,102500.0
+823,Netherlands,Europe,1005.0,Module 5,National Operator,14020.0,15840.0,17302.0,17587.0
+824,Netherlands,Europe,1006.0,Module 6,National Operator,1160.0,1323.0,1447.0,1632.0
+825,Netherlands,Europe,1007.0,Module 7,National Operator,2130.0,2404.0,2678.0,2954.0
+826,Netherlands,Europe,1008.0,Module 8,National Operator,1000.0,1126.0,1322.0,1512.0
+827,Netherlands,Europe,1009.0,Module 9,National Operator,1170.0,1256.0,1312.0,1410.0
+828,Norway,Europe,1001.0,Module 1,HO Managed,15000.0,30000.0,22500.0,15000.0
+829,Norway,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+830,Norway,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+831,Norway,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+832,Norway,Europe,1005.0,Module 5,HO Managed,5720.0,6797.0,8500.0,10234.0
+833,Norway,Europe,1006.0,Module 6,HO Managed,1540.0,1704.0,1849.0,2035.0
+834,Norway,Europe,1007.0,Module 7,HO Managed,2130.0,2314.0,2528.0,2743.0
+835,Norway,Europe,1008.0,Module 8,HO Managed,1000.0,1166.0,1312.0,1441.0
+836,Norway,Europe,1009.0,Module 9,HO Managed,1160.0,1256.0,1343.0,1420.0
+837,Poland,Europe,1001.0,Module 1,HO Managed,55000.0,60000.0,70000.0,80000.0
+838,Poland,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+839,Poland,Europe,1003.0,Module 3,HO Managed,15000.0,15050.0,15095.0,15145.0
+840,Poland,Europe,1004.0,Module 4,HO Managed,40000.0,40000.0,40000.0,41000.0
+841,Poland,Europe,1005.0,Module 5,HO Managed,6900.0,8902.0,9505.0,10858.0
+842,Poland,Europe,1006.0,Module 6,HO Managed,1820.0,1965.0,2110.0,2216.0
+843,Poland,Europe,1007.0,Module 7,HO Managed,2160.0,2434.0,2618.0,2864.0
+844,Poland,Europe,1008.0,Module 8,HO Managed,1000.0,1116.0,1312.0,1491.0
+845,Poland,Europe,1009.0,Module 9,HO Managed,1420.0,1477.0,1504.0,1603.0
+846,Portugal,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+847,Portugal,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+848,Portugal,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+849,Portugal,Europe,1004.0,Module 4,National Operator,40000.0,40000.0,40000.0,41000.0
+850,Portugal,Europe,1005.0,Module 5,National Operator,4620.0,6095.0,6953.0,8541.0
+851,Portugal,Europe,1006.0,Module 6,National Operator,1020.0,1203.0,1326.0,1511.0
+852,Portugal,Europe,1007.0,Module 7,National Operator,1500.0,1683.0,1986.0,2201.0
+853,Portugal,Europe,1008.0,Module 8,National Operator,1000.0,1166.0,1272.0,1400.0
+854,Portugal,Europe,1009.0,Module 9,National Operator,1470.0,1558.0,1625.0,1694.0
+855,Romania,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+856,Romania,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+857,Romania,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+858,Romania,Europe,1004.0,Module 4,National Operator,40000.0,40000.0,40000.0,41000.0
+859,Romania,Europe,1005.0,Module 5,National Operator,5480.0,6657.0,8319.0,9992.0
+860,Romania,Europe,1006.0,Module 6,National Operator,1540.0,1684.0,1849.0,1994.0
+861,Romania,Europe,1007.0,Module 7,National Operator,1710.0,1893.0,2167.0,2442.0
+862,Romania,Europe,1008.0,Module 8,National Operator,1000.0,1196.0,1343.0,1542.0
+863,Romania,Europe,1009.0,Module 9,National Operator,1020.0,1085.0,1131.0,1197.0
+864,Serbia,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+865,Serbia,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+866,Serbia,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+867,Serbia,Europe,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+868,Serbia,Europe,1005.0,Module 5,National Operator,12920.0,14356.0,16136.0,16660.0
+869,Serbia,Europe,1006.0,Module 6,National Operator,1360.0,1564.0,1748.0,1873.0
+870,Serbia,Europe,1007.0,Module 7,National Operator,1950.0,2104.0,2408.0,2562.0
+871,Serbia,Europe,1008.0,Module 8,National Operator,1000.0,1186.0,1333.0,1491.0
+872,Serbia,Europe,1009.0,Module 9,National Operator,1120.0,1226.0,1252.0,1319.0
+873,Slovak Republic,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+874,Slovak Republic,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+875,Slovak Republic,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+876,Slovak Republic,Europe,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+877,Slovak Republic,Europe,1005.0,Module 5,National Operator,19200.0,20291.0,21562.0,23207.0
+878,Slovak Republic,Europe,1006.0,Module 6,National Operator,1280.0,1484.0,1608.0,1813.0
+879,Slovak Republic,Europe,1007.0,Module 7,National Operator,1860.0,2104.0,2257.0,2412.0
+880,Slovak Republic,Europe,1008.0,Module 8,National Operator,1000.0,1116.0,1262.0,1451.0
+881,Slovak Republic,Europe,1009.0,Module 9,National Operator,1370.0,1457.0,1565.0,1633.0
+882,Slovenia,Europe,1001.0,Module 1,National Operator,10000.0,10000.0,10000.0,15750.0
+883,Slovenia,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+884,Slovenia,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+885,Slovenia,Europe,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+886,Slovenia,Europe,1005.0,Module 5,National Operator,3180.0,4992.0,6792.0,7776.0
+887,Slovenia,Europe,1006.0,Module 6,National Operator,1120.0,1223.0,1407.0,1511.0
+888,Slovenia,Europe,1007.0,Module 7,National Operator,2130.0,2314.0,2558.0,2743.0
+889,Slovenia,Europe,1008.0,Module 8,National Operator,1000.0,1126.0,1322.0,1441.0
+890,Slovenia,Europe,1009.0,Module 9,National Operator,1210.0,1266.0,1353.0,1420.0
+891,Sweden,Europe,1001.0,Module 1,HO Managed,15000.0,30000.0,22500.0,15000.0
+892,Sweden,Europe,1002.0,Module 2,HO Managed,6000.0,6250.0,6250.0,6375.0
+893,Sweden,Europe,1003.0,Module 3,HO Managed,1500.0,1505.0,1510.0,1515.0
+894,Sweden,Europe,1004.0,Module 4,HO Managed,0.0,0.0,0.0,0.0
+895,Sweden,Europe,1005.0,Module 5,HO Managed,19360.0,21012.0,21743.0,22160.0
+896,Sweden,Europe,1006.0,Module 6,HO Managed,1020.0,1143.0,1346.0,1491.0
+897,Sweden,Europe,1007.0,Module 7,HO Managed,2130.0,2434.0,2588.0,2894.0
+898,Sweden,Europe,1008.0,Module 8,HO Managed,1000.0,1116.0,1242.0,1400.0
+899,Sweden,Europe,1009.0,Module 9,HO Managed,1130.0,1196.0,1242.0,1299.0
+900,Turkey,Europe,1001.0,Module 1,National Operator,55000.0,60000.0,70000.0,80000.0
+901,Turkey,Europe,1002.0,Module 2,National Operator,6000.0,6250.0,6250.0,6375.0
+902,Turkey,Europe,1003.0,Module 3,National Operator,1500.0,1505.0,1510.0,1515.0
+903,Turkey,Europe,1004.0,Module 4,National Operator,0.0,0.0,0.0,0.0
+904,Turkey,Europe,1005.0,Module 5,National Operator,15840.0,17123.0,17523.0,17768.0
+905,Turkey,Europe,1006.0,Module 6,National Operator,1660.0,1825.0,2010.0,2115.0
+906,Turkey,Europe,1007.0,Module 7,National Operator,1500.0,1803.0,2077.0,2291.0
+907,Turkey,Europe,1008.0,Module 8,National Operator,1000.0,1146.0,1322.0,1481.0
+908,Turkey,Europe,1009.0,Module 9,National Operator,1440.0,1548.0,1656.0,1715.0
+909,,,,,,,,,
+910,,,,,,,,,
+911,,,,,,9900500.0,10638144.0,11471293.0,12685953.0
