@@ -11,7 +11,7 @@ df = pd.read_csv('df_rev_short_nounits.csv')
 
 app = dash.Dash(__name__)
 server = app.server
-                                    ),
+
 app.layout = html.Div([
   html.H2(["SBKE Revenues - Use 'filter data..' to select territory, entity, code etc."], className="subtitle padded"),  
   dash_table.DataTable(
