@@ -13,26 +13,60 @@ app = dash.Dash(__name__)
 server = app.server
 
 app.layout = html.Div([
-  html.H2(["SBKE Revenues"], className="subtitle padded"),  
-  html.H4(["'filter data...' to select Territory, Rntity, Code etc. To sort, use arrows"], className="subtitle padded"),  
+  html.H2(["SBKE Revenues"], className="subtitle padded"),
+  html.H4(["'filter data...' to select Territory, Entity, Code etc. To sort, use arrows"], className="subtitle padded"),
   dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
-            {"name": i, "id": i, "deletable": True, "selectable": True} for i in df.columns
+            {"name": i, "id": i, "selectable": True} for i in df.columns
+            #{"name": i, "id": i, "deletable": True, "selectable": True} for i in df.columns
         ],
         data=df.to_dict('records'),
+        style_table={
+        'maxHeight': '300px',
+        #'maxWidth': '90pc',
+        'overflowY': 'scroll'
+        },
+        fixed_rows={'headers': True, 'data': 0},
         editable=True,
         filter_action="native",
         sort_action="native",
         sort_mode="multi",
         column_selectable="single",
         row_selectable="multi",
-        row_deletable=True,
+        #row_deletable=True,
         selected_columns=[],
         selected_rows=[],
         page_action="native",
         page_current= 0,
-        page_size= 10,
+        #page_size= 10,
+        #style_cell={'textAlign': 'left'},
+        #style_as_list_view=True,
+        style_header={
+        'backgroundColor': 'rgb(91, 194, 54)',
+        'color':'rgb(255, 255, 255)',
+        'fontWeight': 'bold'
+        },
+        style_cell_conditional=[
+        {'if': {'column_id': 'Territory'},
+         'width': '12%'},
+        {'if': {'column_id': 'Entity'},
+         'width': '10%'},
+        {'if': {'column_id': 'Code'},
+         'width': '10%'},
+        {'if': {'column_id': 'Description'},
+         'width': '12%'},
+        {'if': {'column_id': 'Operation'},
+         'width': '13%'},
+        {'if': {'column_id': '2017A'},
+         'width': '10%'},
+        {'if': {'column_id': '2018A'},
+         'width': '10%'},
+        {'if': {'column_id': '2019F'},
+         'width': '10%'},
+        {'if': {'column_id': '2020B'},
+         'width': '10%'},
+    ]
     ),
     html.Div(id='datatable-interactivity-container')
 ])
@@ -88,7 +122,7 @@ def update_graphs(rows, derived_virtual_selected_rows):
                         "title": {"text": column}
                     },
                     "height": 250,
-                    "margin": {"t": 10, "l": 10, "r": 10},
+                    "margin": {"t": 10, "l": 15, "r": 10},
                 },
             },
         )
