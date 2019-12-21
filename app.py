@@ -10,7 +10,7 @@ import pandas as pd
 df = pd.read_csv('df_rev_short_nounits.csv')
 
 app = dash.Dash(__name__)
-
+server = app.server
 html.H2(["Revenues by Territory - Use 'filter' to select territory"], className="subtitle padded"
                                     ),
 app.layout = html.Div([
