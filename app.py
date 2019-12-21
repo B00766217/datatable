@@ -14,7 +14,7 @@ server = app.server
 
 app.layout = html.Div([
   html.H2(["SBKE Revenues"], className="subtitle padded"),  
-  html.H3(["'filter data...' to select territory, entity, code etc. Arrows to sort"], className="subtitle padded"),  
+  html.H4(["'filter data...' to select Territory, Rntity, Code etc. To sort, use arrows"], className="subtitle padded"),  
   dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
