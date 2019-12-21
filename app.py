@@ -13,7 +13,7 @@ app = dash.Dash(__name__)
 server = app.server
 
 app.layout = html.Div([
-  html.H2(["SBKE Revenues - Use 'filter data..' to select territory, entity, code etc."], className="subtitle padded"),  
+  html.H2(["SBKE Revenues - use 'filter data...' to select territory, entity, code etc., and arrows to sort"], className="subtitle padded"),  
   dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
