@@ -11,10 +11,10 @@ df = pd.read_csv('df_rev_short_nounits.csv')
 
 app = dash.Dash(__name__)
 server = app.server
-html.H2(["Revenues by Territory - Use 'filter' to select territory"], className="subtitle padded"
                                     ),
 app.layout = html.Div([
-    dash_table.DataTable(
+  html.H2(["SBKE Revenues - Use 'filter data..' to select territory, entity, code etc."], className="subtitle padded"),  
+  dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
             {"name": i, "id": i, "deletable": True, "selectable": True} for i in df.columns
