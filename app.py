@@ -8,13 +8,14 @@ import dash_html_components as html
 import pandas as pd
 
 df = pd.read_csv('df_rev_short_nounits.csv')
-
-app = dash.Dash(__name__)
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
   html.H2(["SBKE Revenues"], className="subtitle padded"),
-  html.H4(["'filter data...' to select Territory, Entity, Code etc. To sort, use arrows"], className="subtitle padded"),
+  html.H4(["'filter data...' to select Territory, Entity, Code etc. To sort, use arrows"], style={'textAlign': "center", 
+                                                                                                  "padding-bottom": "30"},className="subtitle padded"),
   dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
