@@ -13,9 +13,9 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-  html.H2(["SBKE Group Revenues"], style={'textAlign': "center", "padding-bottom": "30"}),
+  html.H3(["SBKE Group Revenues"], style={'textAlign': "center", "padding-bottom": "30"}),
                                                                                                   
-  html.H5(["'filter data...' to select Territory, Entity, Code etc. To sort, use arrows"], className="subtitle padded"),
+  html.H6(["'filter data...' to select Territory, Entity, Code etc. To sort, use arrows"], className="subtitle padded"),
   dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
